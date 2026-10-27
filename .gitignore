@@ -1,0 +1,18 @@
+# Dữ liệu gốc và dữ liệu trung gian lớn
+data/raw/
+data/processed/*.parquet
+*.duckdb
+*.duckdb.wal
+
+# Môi trường và tệp tạm
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Bản dựng lại của bước 2 để đối chiếu
+data/processed/_kiem_tra_buoc2/
