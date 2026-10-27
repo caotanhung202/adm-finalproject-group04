@@ -1,0 +1,158 @@
+﻿support,itemsets
+0.0792,aisle_3
+0.0504,aisle_4
+0.0664,aisle_9
+0.095,aisle_16
+0.079,aisle_17
+0.0756,aisle_19
+0.2288,aisle_21
+0.5474,aisle_24
+0.0544,aisle_26
+0.1418,aisle_31
+0.06,aisle_32
+0.0732,aisle_36
+0.1128,aisle_37
+0.0694,aisle_38
+0.0698,aisle_45
+0.064,aisle_52
+0.0892,aisle_53
+0.065,aisle_54
+0.0646,aisle_59
+0.062,aisle_61
+0.0984,aisle_67
+0.0848,aisle_69
+0.0596,aisle_72
+0.0796,aisle_77
+0.1196,aisle_78
+0.0724,aisle_81
+0.4448,aisle_83
+0.2478,aisle_84
+0.143,aisle_86
+0.0794,aisle_88
+0.1764,aisle_91
+0.0508,aisle_92
+0.0624,aisle_93
+0.05,aisle_94
+0.1062,aisle_96
+0.0832,aisle_98
+0.0554,aisle_104
+0.08,aisle_106
+0.1526,aisle_107
+0.0792,aisle_108
+0.1612,aisle_112
+0.1786,aisle_115
+0.1186,aisle_116
+0.0852,aisle_117
+0.2738,aisle_120
+0.0908,aisle_121
+0.3626,aisle_123
+0.0606,aisle_128
+0.0522,aisle_129
+0.0742,aisle_131
+0.056,"aisle_24, aisle_3"
+0.0718,"aisle_16, aisle_24"
+0.0828,"aisle_16, aisle_83"
+0.0558,"aisle_123, aisle_16"
+0.1552,"aisle_21, aisle_24"
+0.134,"aisle_21, aisle_83"
+0.0776,"aisle_21, aisle_84"
+0.0522,"aisle_107, aisle_21"
+0.0598,"aisle_112, aisle_21"
+0.0888,"aisle_120, aisle_21"
+0.1164,"aisle_123, aisle_21"
+0.0904,"aisle_24, aisle_31"
+0.064,"aisle_24, aisle_37"
+0.0554,"aisle_24, aisle_53"
+0.0692,"aisle_24, aisle_67"
+0.0554,"aisle_24, aisle_69"
+0.0796,"aisle_24, aisle_78"
+0.3128,"aisle_24, aisle_83"
+0.1634,"aisle_24, aisle_84"
+0.0992,"aisle_24, aisle_86"
+0.0574,"aisle_24, aisle_88"
+0.124,"aisle_24, aisle_91"
+0.0732,"aisle_24, aisle_96"
+0.0532,"aisle_24, aisle_98"
+0.054,"aisle_106, aisle_24"
+0.099,"aisle_107, aisle_24"
+0.0506,"aisle_108, aisle_24"
+0.1096,"aisle_112, aisle_24"
+0.1074,"aisle_115, aisle_24"
+0.086,"aisle_116, aisle_24"
+0.0574,"aisle_117, aisle_24"
+0.1924,"aisle_120, aisle_24"
+0.061,"aisle_121, aisle_24"
+0.2614,"aisle_123, aisle_24"
+0.0504,"aisle_131, aisle_24"
+0.0692,"aisle_31, aisle_83"
+0.0604,"aisle_123, aisle_31"
+0.0538,"aisle_37, aisle_83"
+0.0568,"aisle_67, aisle_83"
+0.0524,"aisle_123, aisle_67"
+0.0582,"aisle_69, aisle_83"
+0.0596,"aisle_78, aisle_83"
+0.0572,"aisle_123, aisle_78"
+0.0532,"aisle_81, aisle_83"
+0.1276,"aisle_83, aisle_84"
+0.0896,"aisle_83, aisle_86"
+0.1024,"aisle_83, aisle_91"
+0.0598,"aisle_83, aisle_96"
+0.0764,"aisle_107, aisle_83"
+0.0904,"aisle_112, aisle_83"
+0.0792,"aisle_115, aisle_83"
+0.0782,"aisle_116, aisle_83"
+0.1462,"aisle_120, aisle_83"
+0.2342,"aisle_123, aisle_83"
+0.0502,"aisle_84, aisle_86"
+0.0562,"aisle_112, aisle_84"
+0.0974,"aisle_120, aisle_84"
+0.105,"aisle_123, aisle_84"
+0.0504,"aisle_120, aisle_86"
+0.0698,"aisle_123, aisle_86"
+0.0642,"aisle_120, aisle_91"
+0.092,"aisle_123, aisle_91"
+0.0538,"aisle_123, aisle_96"
+0.0524,"aisle_107, aisle_120"
+0.072,"aisle_107, aisle_123"
+0.0624,"aisle_112, aisle_120"
+0.0756,"aisle_112, aisle_123"
+0.0542,"aisle_115, aisle_120"
+0.0716,"aisle_115, aisle_123"
+0.0648,"aisle_116, aisle_123"
+0.1294,"aisle_120, aisle_123"
+0.0646,"aisle_16, aisle_24, aisle_83"
+0.1036,"aisle_21, aisle_24, aisle_83"
+0.06,"aisle_21, aisle_24, aisle_84"
+0.0712,"aisle_120, aisle_21, aisle_24"
+0.089,"aisle_123, aisle_21, aisle_24"
+0.0558,"aisle_120, aisle_21, aisle_83"
+0.0834,"aisle_123, aisle_21, aisle_83"
+0.054,"aisle_120, aisle_123, aisle_21"
+0.0516,"aisle_24, aisle_31, aisle_83"
+0.0998,"aisle_24, aisle_83, aisle_84"
+0.0704,"aisle_24, aisle_83, aisle_86"
+0.0828,"aisle_24, aisle_83, aisle_91"
+0.0586,"aisle_107, aisle_24, aisle_83"
+0.0708,"aisle_112, aisle_24, aisle_83"
+0.061,"aisle_115, aisle_24, aisle_83"
+0.0628,"aisle_116, aisle_24, aisle_83"
+0.1168,"aisle_120, aisle_24, aisle_83"
+0.1826,"aisle_123, aisle_24, aisle_83"
+0.0746,"aisle_120, aisle_24, aisle_84"
+0.0854,"aisle_123, aisle_24, aisle_84"
+0.058,"aisle_123, aisle_24, aisle_86"
+0.052,"aisle_120, aisle_24, aisle_91"
+0.0772,"aisle_123, aisle_24, aisle_91"
+0.0578,"aisle_107, aisle_123, aisle_24"
+0.06,"aisle_112, aisle_123, aisle_24"
+0.0568,"aisle_115, aisle_123, aisle_24"
+0.052,"aisle_116, aisle_123, aisle_24"
+0.105,"aisle_120, aisle_123, aisle_24"
+0.056,"aisle_120, aisle_83, aisle_84"
+0.07,"aisle_123, aisle_83, aisle_84"
+0.0526,"aisle_123, aisle_83, aisle_86"
+0.0688,"aisle_123, aisle_83, aisle_91"
+0.0522,"aisle_112, aisle_123, aisle_83"
+0.05,"aisle_116, aisle_123, aisle_83"
+0.0864,"aisle_120, aisle_123, aisle_83"
+0.0518,"aisle_120, aisle_123, aisle_84"

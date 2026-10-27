@@ -1,0 +1,3 @@
+﻿level,transactions,min_support,max_len_mined,frequent_itemsets,closed_itemsets,closed_ratio,reduction_count,reduction_percent
+aisle,10000,0.1,3,36,36,1.0,0,0.0
+department,10000,0.1,3,93,93,1.0,0,0.0

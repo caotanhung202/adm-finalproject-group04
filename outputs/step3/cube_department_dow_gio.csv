@@ -1,0 +1,4332 @@
+﻿department,order_dow,gio,luot,so_don
+,,,2066000,206657
+produce,,,606397,154116
+frozen,,,142435,75613
+deli,,,67126,49215
+canned goods,,,67542,43551
+international,,,17033,13932
+dry goods pasta,,,55141,37905
+meat seafood,,,46119,37433
+bakery,,,73719,55417
+household,,,46434,29721
+personal care,,,27901,20079
+missing,,,4358,3792
+breakfast,,,44897,33347
+bulk,,,2358,2315
+other,,,2327,2261
+pets,,,6470,3858
+dairy eggs,,,346404,139676
+pantry,,,119966,71871
+snacks,,,180628,87551
+beverages,,,169623,92144
+babies,,,29521,12184
+alcohol,,,9601,5431
+dairy eggs,5,,47608,18701
+pantry,5,,16487,9611
+canned goods,1,,11036,7186
+dairy eggs,0,,64933,26008
+frozen,0,,28283,14964
+pantry,0,,22981,13812
+international,0,,3574,2957
+deli,0,,13472,9920
+beverages,4,,21111,11408
+produce,4,,66110,18212
+canned goods,4,,7461,4814
+meat seafood,0,,9971,8052
+bakery,0,,14552,10918
+dry goods pasta,0,,11634,8073
+snacks,0,,31364,15699
+household,0,,8142,5304
+personal care,0,,5193,3763
+missing,6,,652,572
+beverages,6,,21622,12238
+canned goods,6,,10372,6508
+breakfast,5,,6239,4612
+frozen,5,,18851,9913
+snacks,5,,25710,11949
+deli,5,,9044,6474
+bakery,5,,9879,7431
+meat seafood,2,,5589,4600
+dairy eggs,2,,45443,18431
+dry goods pasta,5,,6837,4757
+beverages,3,,21373,11628
+meat seafood,5,,5767,4652
+household,5,,6549,4170
+beverages,1,,28980,15391
+produce,1,,105911,26625
+produce,6,,85080,20653
+breakfast,0,,8178,6220
+produce,3,,68566,18894
+babies,3,,3656,1560
+pantry,2,,15097,9187
+dry goods pasta,2,,7108,4817
+international,2,,2169,1801
+frozen,2,,18155,9680
+snacks,2,,24732,11809
+breakfast,2,,6154,4450
+babies,1,,4818,1996
+bakery,2,,9543,7215
+alcohol,4,,1511,788
+other,3,,269,261
+household,2,,6425,4056
+deli,2,,8742,6387
+canned goods,3,,7612,5000
+babies,6,,3913,1601
+bulk,4,,303,298
+pets,0,,1049,669
+alcohol,6,,1216,745
+alcohol,1,,1419,786
+alcohol,3,,1319,762
+babies,4,,3556,1534
+personal care,2,,3704,2653
+personal care,5,,3627,2609
+bulk,3,,263,255
+international,5,,2119,1699
+bulk,6,,323,316
+pets,5,,986,566
+other,1,,350,344
+other,4,,308,296
+pets,2,,813,451
+bulk,1,,425,423
+missing,4,,523,461
+missing,1,,733,631
+other,6,,322,312
+missing,3,,530,462
+produce,5,,78933,20139
+frozen,1,,22245,12052
+deli,1,,11305,8346
+snacks,1,,32196,15093
+pantry,1,,18871,11616
+canned goods,0,,14456,9206
+produce,0,,125444,29222
+beverages,0,,28024,15985
+babies,0,,5889,2327
+beverages,2,,23677,12556
+frozen,4,,16500,8782
+dry goods pasta,4,,6028,4071
+dairy eggs,4,,40897,16878
+snacks,4,,21835,10655
+pantry,4,,14417,8687
+deli,6,,9185,6808
+dry goods pasta,6,,8037,5526
+bakery,6,,10366,7781
+pantry,6,,17712,10276
+frozen,6,,21559,11211
+beverages,5,,24836,12938
+produce,2,,76353,20371
+bulk,2,,289,285
+canned goods,2,,8445,5475
+other,2,,332,324
+international,3,,2080,1687
+dairy eggs,3,,41365,17202
+snacks,3,,22031,10908
+canned goods,5,,8160,5362
+bakery,1,,12322,9157
+dairy eggs,1,,59560,23757
+breakfast,1,,7963,5833
+dairy eggs,6,,46598,18699
+snacks,6,,22760,11438
+breakfast,6,,5746,4414
+deli,3,,7797,5701
+breakfast,3,,5465,3992
+other,5,,334,316
+alcohol,2,,1316,704
+dry goods pasta,1,,9298,6358
+household,6,,6326,4051
+meat seafood,4,,4925,4031
+bakery,4,,8381,6340
+breakfast,4,,5152,3826
+international,1,,2817,2310
+personal care,1,,4346,3173
+frozen,3,,16842,9011
+bakery,3,,8676,6575
+household,3,,6006,3832
+pantry,3,,14401,8682
+meat seafood,6,,6928,5614
+babies,5,,3580,1507
+meat seafood,1,,7716,6267
+meat seafood,3,,5223,4217
+personal care,4,,3423,2409
+deli,4,,7581,5579
+household,4,,5535,3533
+personal care,6,,4126,2940
+household,1,,7451,4775
+alcohol,5,,1664,912
+pets,6,,1006,605
+international,4,,1909,1554
+dry goods pasta,3,,6199,4303
+international,6,,2365,1924
+personal care,3,,3482,2532
+pets,1,,993,586
+pets,3,,760,462
+babies,2,,4109,1659
+missing,0,,835,724
+pets,4,,863,519
+missing,2,,530,455
+missing,5,,555,487
+alcohol,0,,1156,734
+bulk,5,,298,292
+bulk,0,,457,446
+other,0,,412,408
+frozen,1,19,934,499
+deli,1,19,379,293
+canned goods,1,19,391,261
+snacks,1,19,1026,525
+pantry,0,12,2173,1293
+produce,0,14,11120,2672
+deli,0,14,1212,929
+beverages,4,10,1999,1001
+produce,4,10,5289,1463
+dairy eggs,4,10,3419,1382
+snacks,4,10,1934,920
+dairy eggs,0,18,2900,1239
+deli,0,18,639,472
+meat seafood,0,18,409,329
+frozen,0,18,1276,718
+produce,0,18,5163,1378
+dry goods pasta,0,18,501,358
+snacks,0,18,1441,724
+canned goods,0,18,576,390
+household,0,18,402,267
+personal care,0,18,252,187
+produce,4,11,5048,1407
+dairy eggs,4,11,3241,1320
+snacks,4,11,1891,866
+deli,0,15,1197,889
+snacks,0,15,2839,1421
+canned goods,0,15,1278,829
+produce,0,15,11189,2655
+dairy eggs,0,15,5591,2327
+beverages,0,15,2504,1418
+deli,6,19,319,238
+bakery,6,22,200,150
+pantry,6,22,342,198
+pantry,0,19,711,456
+snacks,5,16,2052,985
+deli,5,16,736,524
+bakery,5,16,827,621
+meat seafood,2,22,106,78
+dairy eggs,2,22,795,311
+other,2,22,2,2
+dry goods pasta,5,15,524,382
+snacks,5,15,2092,955
+bakery,5,15,751,574
+babies,0,20,283,95
+pantry,0,20,659,411
+international,3,10,166,135
+dairy eggs,3,10,3396,1319
+snacks,3,10,1886,872
+beverages,3,10,1806,898
+bakery,5,14,785,602
+canned goods,5,14,637,424
+dry goods pasta,0,11,981,670
+frozen,0,11,2392,1213
+canned goods,0,11,1348,821
+snacks,0,11,2628,1301
+beverages,0,11,2315,1297
+dairy eggs,0,11,5334,2123
+produce,0,11,10186,2371
+snacks,5,17,1613,766
+bakery,1,12,947,682
+frozen,1,12,1754,917
+produce,1,12,8581,2075
+deli,1,12,879,660
+snacks,1,12,2529,1166
+breakfast,0,8,379,288
+dairy eggs,3,14,3026,1296
+beverages,3,14,1672,924
+deli,3,14,603,438
+breakfast,3,14,404,295
+snacks,5,10,2130,1000
+dry goods pasta,5,10,495,350
+dairy eggs,2,11,3818,1498
+pantry,2,11,1347,806
+dry goods pasta,2,11,578,389
+international,2,11,189,156
+produce,5,8,4387,1094
+deli,5,15,681,486
+dairy eggs,2,16,3328,1426
+canned goods,1,12,941,607
+dry goods pasta,1,12,737,523
+dairy eggs,1,10,6060,2306
+bakery,5,10,697,542
+canned goods,5,10,672,420
+dairy eggs,6,12,3937,1555
+deli,6,12,774,573
+snacks,6,12,1854,984
+produce,6,12,7287,1730
+household,6,12,528,350
+frozen,6,12,1783,953
+beverages,6,12,1761,1006
+beverages,0,18,1327,796
+canned goods,4,6,84,53
+meat seafood,4,6,51,45
+breakfast,4,6,63,45
+produce,2,20,2669,721
+frozen,2,20,653,333
+meat seafood,2,15,457,371
+bakery,2,15,770,587
+international,2,15,167,144
+dry goods pasta,2,15,630,421
+produce,1,7,3079,751
+snacks,1,7,806,389
+frozen,1,7,569,329
+deli,1,7,299,234
+canned goods,1,7,291,196
+dry goods pasta,1,7,236,162
+canned goods,0,17,902,570
+dry goods pasta,0,17,743,495
+produce,0,17,8018,1922
+dairy eggs,0,17,4179,1702
+frozen,0,15,2630,1384
+bakery,0,13,1333,1009
+breakfast,0,13,681,529
+dairy eggs,3,9,3414,1283
+beverages,3,9,1630,823
+pantry,1,14,1548,900
+produce,6,8,4461,1024
+dairy eggs,1,16,4415,1841
+produce,3,12,5035,1399
+household,3,12,450,292
+frozen,6,13,1790,898
+produce,6,13,7005,1736
+canned goods,6,13,904,550
+dairy eggs,1,11,5057,2034
+pantry,2,15,1146,714
+babies,5,10,317,133
+bakery,6,16,867,657
+dry goods pasta,6,16,764,511
+produce,1,13,8792,2128
+canned goods,1,13,943,624
+produce,4,0,518,138
+snacks,4,0,160,76
+dairy eggs,4,0,291,115
+beverages,2,19,921,537
+snacks,2,19,897,483
+breakfast,2,19,232,171
+deli,2,19,371,281
+produce,2,19,2997,852
+produce,2,7,2561,629
+beverages,2,7,674,368
+produce,3,8,3768,1005
+snacks,0,17,2058,1063
+meat seafood,0,17,602,494
+frozen,0,17,2012,1066
+pantry,4,19,658,408
+dry goods pasta,6,17,598,398
+dairy eggs,4,16,3112,1277
+dairy eggs,3,15,3205,1368
+snacks,3,15,1811,886
+canned goods,3,15,662,429
+pantry,3,15,1191,705
+meat seafood,6,18,304,248
+snacks,2,12,1980,918
+produce,2,12,6200,1600
+household,2,12,476,307
+dairy eggs,4,17,2566,1100
+snacks,4,17,1437,710
+beverages,4,17,1396,771
+bulk,4,17,20,19
+produce,4,17,4078,1201
+beverages,6,13,1860,1028
+dairy eggs,6,13,3905,1557
+beverages,4,15,1533,842
+snacks,4,15,1631,816
+produce,4,15,5291,1429
+deli,4,15,622,445
+beverages,1,10,3175,1550
+canned goods,2,20,283,193
+beverages,5,13,2073,1025
+dairy eggs,5,13,4038,1511
+produce,5,20,2324,589
+pantry,5,20,402,256
+breakfast,5,20,154,125
+frozen,5,20,665,329
+household,5,20,177,130
+snacks,2,8,1465,631
+beverages,2,8,1200,650
+produce,2,8,4349,1128
+beverages,0,17,1847,1073
+personal care,0,17,352,261
+pets,0,17,80,47
+international,0,13,331,275
+pantry,0,13,2210,1304
+snacks,3,11,1934,864
+pantry,4,20,520,313
+frozen,4,20,626,352
+canned goods,4,20,260,167
+household,4,20,198,121
+produce,1,21,2322,553
+frozen,1,21,555,291
+canned goods,1,21,225,160
+beverages,0,16,2299,1329
+deli,0,16,1136,841
+snacks,0,16,2670,1355
+bakery,2,11,757,557
+dairy eggs,1,14,4614,1893
+alcohol,6,12,93,61
+canned goods,6,12,952,579
+meat seafood,6,16,577,480
+pantry,6,16,1424,823
+household,0,14,737,483
+personal care,0,14,462,331
+snacks,0,14,2849,1452
+dairy eggs,0,14,5890,2375
+frozen,0,14,2651,1418
+pantry,1,15,1598,980
+breakfast,1,15,716,518
+beverages,2,20,728,409
+pantry,3,14,1147,704
+household,2,19,283,178
+snacks,4,16,1707,865
+beverages,4,0,148,81
+bakery,4,0,68,49
+deli,3,11,664,473
+pantry,3,11,1202,690
+dairy eggs,6,7,1219,485
+produce,6,7,2334,542
+breakfast,6,7,161,126
+canned goods,6,7,229,160
+produce,4,9,4505,1249
+snacks,4,9,1549,762
+produce,2,13,6208,1574
+breakfast,2,13,481,326
+deli,4,10,636,445
+pantry,6,14,1521,873
+bakery,6,14,910,670
+frozen,6,23,301,165
+dairy eggs,6,23,789,277
+snacks,6,23,380,174
+beverages,6,23,334,173
+deli,6,23,148,113
+personal care,6,23,44,34
+beverages,4,11,1795,893
+pantry,1,10,1746,1051
+breakfast,1,10,817,594
+dry goods pasta,0,14,1116,788
+household,3,13,473,296
+beverages,1,15,2349,1247
+dairy eggs,1,15,4663,1892
+produce,5,23,1143,272
+beverages,5,23,277,159
+breakfast,5,23,83,61
+beverages,3,18,1174,671
+dairy eggs,3,18,2244,1023
+produce,5,13,6280,1620
+frozen,5,13,1438,784
+breakfast,5,13,486,374
+pantry,1,11,1712,1018
+frozen,5,8,957,503
+dairy eggs,5,8,2771,1066
+beverages,3,15,1695,939
+deli,3,15,600,448
+pantry,0,8,1105,646
+dairy eggs,3,17,2724,1198
+deli,3,17,570,412
+beverages,3,17,1466,823
+pantry,3,17,896,564
+snacks,3,17,1560,804
+international,6,16,197,164
+beverages,1,18,1367,767
+breakfast,1,18,381,273
+dairy eggs,1,18,2763,1192
+pantry,1,18,950,615
+dairy eggs,1,17,3480,1467
+beverages,1,17,1612,942
+dairy eggs,2,14,3212,1351
+pantry,2,14,1141,703
+bakery,2,14,691,531
+international,1,17,172,135
+personal care,1,17,238,175
+breakfast,0,21,222,172
+dairy eggs,4,15,3272,1340
+household,2,8,385,240
+alcohol,2,8,59,27
+frozen,1,13,1804,995
+canned goods,4,12,586,368
+pantry,4,12,1080,651
+dairy eggs,2,15,3426,1465
+personal care,3,12,265,198
+dry goods pasta,3,12,440,302
+frozen,3,12,1182,639
+breakfast,4,20,201,146
+snacks,5,11,2659,1083
+beverages,1,16,2085,1161
+pantry,1,16,1505,939
+dairy eggs,3,11,3301,1349
+beverages,3,11,1838,943
+babies,4,15,309,139
+frozen,2,12,1347,739
+personal care,2,12,315,214
+canned goods,2,12,663,434
+beverages,2,12,1838,960
+bakery,2,9,749,543
+dairy eggs,2,9,3922,1454
+international,2,9,138,120
+snacks,3,18,1175,620
+pantry,3,18,829,497
+deli,3,18,438,339
+dairy eggs,0,22,1322,480
+beverages,0,22,491,272
+babies,1,15,408,164
+frozen,2,13,1487,756
+canned goods,2,13,759,472
+produce,4,14,4969,1371
+beverages,4,14,1630,887
+dairy eggs,4,14,3094,1283
+bakery,1,7,384,273
+produce,6,23,1308,320
+breakfast,6,23,108,74
+canned goods,6,23,132,85
+dairy eggs,0,9,4753,1829
+produce,0,9,9087,2037
+beverages,0,9,1920,1121
+dry goods pasta,0,9,827,602
+snacks,0,9,2138,1045
+deli,0,9,895,684
+frozen,1,8,1063,587
+snacks,1,8,1893,863
+produce,1,8,6438,1562
+bakery,6,11,891,670
+deli,2,8,467,357
+snacks,6,13,1900,948
+household,3,19,256,165
+personal care,3,19,188,135
+pets,3,19,52,30
+babies,3,19,185,87
+dry goods pasta,2,9,446,308
+pantry,2,9,1065,647
+household,5,13,545,321
+beverages,1,9,2851,1405
+pantry,1,9,1484,898
+dairy eggs,1,9,5607,2085
+breakfast,1,9,640,481
+breakfast,3,11,452,303
+bulk,3,11,31,31
+meat seafood,3,11,411,328
+breakfast,3,9,369,278
+snacks,3,9,1743,802
+canned goods,3,9,461,305
+snacks,3,14,1679,859
+pantry,1,5,64,38
+dairy eggs,2,10,4016,1519
+beverages,0,14,2458,1442
+meat seafood,0,14,911,751
+frozen,0,9,1847,988
+meat seafood,0,9,742,599
+pantry,1,22,316,189
+babies,1,22,58,34
+dairy eggs,1,22,874,348
+pantry,6,10,1555,882
+personal care,3,20,116,84
+household,3,20,183,125
+breakfast,3,15,389,294
+produce,3,13,5359,1477
+meat seafood,0,15,909,737
+dry goods pasta,0,15,1044,753
+beverages,1,22,373,217
+beverages,5,8,1216,672
+meat seafood,5,8,305,258
+pantry,5,8,956,530
+dairy eggs,3,22,959,371
+snacks,3,22,469,221
+breakfast,3,22,128,95
+alcohol,3,20,24,15
+dry goods pasta,3,20,179,122
+other,2,11,33,31
+personal care,1,10,348,253
+breakfast,4,12,335,262
+household,0,11,708,441
+deli,0,11,1154,819
+personal care,0,11,458,319
+meat seafood,0,11,859,685
+deli,2,12,731,514
+pantry,3,9,992,610
+beverages,1,14,2276,1196
+dairy eggs,4,9,3246,1258
+beverages,4,9,1608,828
+bakery,5,9,806,578
+personal care,5,9,260,190
+pantry,2,18,844,519
+produce,6,21,2315,506
+breakfast,6,21,136,107
+dairy eggs,6,21,1191,441
+frozen,3,19,894,485
+produce,3,19,2989,867
+bakery,3,19,369,290
+snacks,3,16,1718,867
+canned goods,3,16,612,409
+dairy eggs,3,16,3138,1351
+snacks,5,9,1935,901
+frozen,1,23,268,132
+bakery,3,12,662,490
+pantry,2,16,1095,685
+snacks,4,14,1635,801
+babies,4,11,329,110
+deli,4,14,542,393
+bakery,4,14,637,497
+breakfast,1,16,589,450
+dairy eggs,2,17,2846,1262
+beverages,5,12,2088,1037
+dairy eggs,5,12,3687,1455
+dairy eggs,2,5,134,58
+personal care,3,8,166,125
+dry goods pasta,6,9,494,348
+bakery,6,9,719,534
+pantry,6,9,1280,748
+produce,5,7,2608,663
+frozen,5,7,532,311
+dairy eggs,5,7,1563,613
+meat seafood,5,7,189,148
+canned goods,0,9,1058,674
+deli,2,13,767,541
+meat seafood,0,10,824,662
+produce,0,10,10672,2280
+dairy eggs,0,10,5227,2058
+household,0,10,656,415
+other,3,18,17,17
+household,1,13,584,389
+produce,0,16,9978,2428
+dairy eggs,0,16,5240,2142
+canned goods,0,16,1152,752
+meat seafood,0,16,791,637
+household,0,16,569,396
+personal care,0,16,428,325
+beverages,1,11,2632,1373
+deli,5,11,914,610
+international,1,15,241,197
+meat seafood,3,14,414,326
+bakery,4,17,524,409
+canned goods,5,15,608,419
+babies,5,15,236,108
+produce,6,19,3092,786
+frozen,6,19,906,463
+dairy eggs,6,19,1728,734
+canned goods,6,19,340,231
+bakery,0,7,344,253
+breakfast,0,7,177,140
+pantry,0,7,536,325
+snacks,2,13,2066,969
+beverages,6,21,477,276
+frozen,6,21,509,256
+alcohol,5,8,74,43
+bakery,0,21,324,232
+international,5,10,174,132
+snacks,1,6,315,138
+pantry,4,8,773,465
+dry goods pasta,4,8,339,211
+personal care,1,11,425,288
+deli,4,9,482,355
+dry goods pasta,2,16,604,396
+frozen,4,13,1249,693
+meat seafood,2,10,395,329
+produce,4,18,3409,1036
+dairy eggs,4,18,2144,968
+deli,2,7,231,178
+meat seafood,6,11,550,441
+pets,6,11,78,45
+produce,5,12,6204,1571
+canned goods,0,14,1388,856
+household,5,8,381,247
+pantry,4,13,1120,692
+personal care,4,13,285,208
+beverages,5,20,582,349
+dairy eggs,5,20,1280,533
+snacks,6,7,588,304
+frozen,6,7,510,278
+beverages,6,7,573,322
+household,6,7,185,108
+bakery,5,17,688,506
+meat seafood,3,9,328,263
+canned goods,3,14,621,404
+produce,1,20,2871,774
+meat seafood,1,20,221,177
+frozen,4,6,152,89
+pantry,4,6,164,89
+pantry,6,17,1116,662
+beverages,5,7,693,381
+pantry,5,7,579,327
+produce,6,20,2517,617
+canned goods,6,20,307,187
+dairy eggs,6,20,1559,569
+deli,6,20,266,202
+breakfast,6,20,170,127
+personal care,2,13,262,194
+beverages,2,13,1923,1004
+bakery,3,7,244,186
+produce,3,7,1899,509
+dry goods pasta,3,7,186,126
+frozen,3,7,401,234
+meat seafood,6,10,572,465
+personal care,1,16,321,246
+other,5,11,24,21
+snacks,1,20,800,425
+bakery,1,20,316,249
+bakery,4,15,715,536
+bakery,3,20,275,226
+produce,3,20,2179,626
+dry goods pasta,5,22,181,110
+canned goods,5,22,173,115
+bakery,5,22,207,158
+personal care,1,14,326,233
+pets,5,11,55,40
+bakery,4,10,641,482
+beverages,4,18,1159,673
+snacks,4,18,1190,614
+deli,4,18,442,339
+dairy eggs,6,8,2466,959
+beverages,6,8,1093,596
+household,6,8,346,206
+deli,6,8,487,343
+canned goods,6,8,537,322
+deli,3,22,180,141
+babies,5,14,308,127
+snacks,5,14,2253,991
+deli,3,9,522,382
+personal care,2,20,144,107
+snacks,2,20,709,372
+other,5,16,19,19
+meat seafood,4,12,353,285
+meat seafood,2,16,416,353
+bakery,2,16,748,573
+breakfast,4,13,407,301
+pets,4,13,38,26
+beverages,0,10,2245,1254
+snacks,0,10,2397,1221
+frozen,0,10,2094,1124
+deli,0,10,1027,761
+breakfast,4,19,260,199
+frozen,4,19,937,485
+snacks,0,22,659,306
+produce,0,22,2529,562
+deli,0,22,266,196
+dry goods pasta,0,16,980,661
+beverages,4,5,86,40
+dairy eggs,4,5,132,65
+snacks,4,5,71,37
+breakfast,1,14,655,462
+dairy eggs,2,18,2461,1077
+bakery,0,12,1244,940
+pantry,3,16,1082,659
+other,1,10,31,31
+international,1,10,277,213
+bakery,6,10,850,645
+pantry,5,12,1436,787
+canned goods,0,22,277,175
+frozen,0,22,597,277
+meat seafood,0,22,167,136
+pantry,2,17,1136,669
+deli,2,3,12,9
+breakfast,2,3,5,5
+household,2,3,9,9
+produce,2,3,85,25
+other,4,17,29,28
+deli,4,11,659,468
+frozen,6,20,712,345
+deli,1,20,308,235
+canned goods,1,20,289,207
+babies,4,9,279,109
+bakery,4,11,625,479
+meat seafood,1,8,395,332
+dry goods pasta,0,10,911,640
+personal care,0,10,427,311
+breakfast,0,12,719,537
+meat seafood,2,14,419,360
+dairy eggs,2,0,279,114
+pantry,2,0,108,56
+other,1,15,29,28
+canned goods,5,11,688,453
+bakery,5,11,867,630
+deli,0,17,898,676
+dairy eggs,6,6,318,134
+frozen,6,6,176,90
+beverages,6,6,137,88
+produce,6,6,580,136
+snacks,6,6,160,83
+babies,6,6,22,10
+breakfast,6,6,53,40
+beverages,6,19,822,456
+household,6,19,246,158
+snacks,6,19,999,462
+dairy eggs,5,21,1025,368
+beverages,5,21,443,239
+produce,5,21,1861,420
+household,5,21,107,75
+pantry,5,21,364,211
+produce,3,21,1991,486
+frozen,3,21,493,263
+household,3,21,140,92
+pets,3,21,26,13
+dry goods pasta,3,21,168,113
+pets,2,16,100,42
+bakery,4,18,472,362
+dry goods pasta,6,15,673,461
+meat seafood,6,9,484,399
+frozen,5,19,928,477
+produce,5,19,2948,811
+dairy eggs,5,19,1746,769
+meat seafood,2,9,405,329
+household,5,12,537,336
+breakfast,3,16,441,316
+meat seafood,3,16,427,341
+deli,3,16,600,457
+breakfast,2,12,439,316
+snacks,2,7,676,353
+frozen,2,7,526,300
+household,2,7,198,117
+canned goods,2,7,222,152
+babies,4,5,20,8
+pantry,5,23,208,127
+meat seafood,2,17,402,328
+personal care,0,9,321,243
+personal care,4,8,148,104
+breakfast,1,11,704,508
+bakery,1,13,1054,767
+breakfast,3,18,303,233
+household,5,19,285,193
+meat seafood,4,1,14,11
+household,4,1,35,18
+personal care,4,1,4,4
+pantry,4,1,45,31
+dry goods pasta,6,11,658,464
+canned goods,0,10,1211,778
+other,4,18,14,14
+deli,3,10,606,427
+frozen,4,21,589,284
+dry goods pasta,4,21,208,132
+babies,0,12,407,161
+international,1,22,68,51
+other,5,15,27,27
+frozen,4,12,1118,616
+bulk,4,15,34,34
+missing,5,9,38,33
+international,0,12,338,285
+deli,2,20,275,208
+meat seafood,1,7,181,153
+meat seafood,5,20,167,140
+meat seafood,1,12,638,530
+meat seafood,6,15,603,470
+meat seafood,3,15,407,332
+international,3,15,188,157
+bakery,4,9,583,441
+canned goods,5,17,496,326
+snacks,5,18,1230,630
+frozen,2,19,884,447
+canned goods,2,19,304,208
+alcohol,2,19,55,34
+pantry,5,19,616,380
+dry goods pasta,5,9,515,351
+deli,5,9,712,491
+frozen,5,12,1450,774
+bulk,1,8,24,24
+deli,1,8,620,475
+babies,1,16,408,132
+international,1,16,199,157
+babies,1,11,408,166
+meat seafood,5,12,474,372
+bakery,0,19,492,384
+alcohol,0,8,37,28
+bakery,0,8,710,531
+snacks,6,8,1088,559
+breakfast,6,8,307,240
+frozen,6,8,1020,543
+bakery,2,17,656,514
+pantry,3,10,1061,634
+international,1,11,267,224
+missing,1,11,80,70
+meat seafood,6,22,137,108
+dry goods pasta,6,22,142,92
+missing,6,22,15,14
+international,6,22,36,34
+breakfast,5,8,349,271
+frozen,0,16,2453,1284
+missing,1,16,56,48
+breakfast,3,10,462,317
+babies,0,19,269,101
+breakfast,0,19,308,229
+produce,2,6,890,224
+deli,2,6,96,72
+dry goods pasta,5,11,538,383
+dry goods pasta,2,17,525,349
+produce,1,1,248,68
+household,6,13,555,347
+pantry,1,17,1061,682
+meat seafood,6,17,460,374
+bakery,6,17,677,499
+produce,4,22,2024,449
+snacks,4,22,556,248
+frozen,2,6,206,113
+beverages,2,6,292,134
+snacks,2,6,255,128
+household,4,19,284,176
+snacks,1,13,2438,1179
+snacks,1,23,350,163
+bakery,1,23,125,100
+canned goods,1,23,136,90
+produce,3,23,969,246
+canned goods,4,8,404,270
+frozen,4,8,823,447
+beverages,3,16,1846,973
+international,2,17,152,120
+pantry,0,23,237,147
+babies,0,23,81,35
+international,3,14,156,131
+produce,4,5,232,66
+babies,6,12,292,121
+breakfast,2,7,211,153
+pantry,0,21,549,326
+dry goods pasta,5,18,340,226
+deli,5,18,465,358
+bakery,5,18,534,421
+bakery,2,18,533,424
+canned goods,1,8,606,384
+household,1,8,446,286
+dry goods pasta,1,8,501,332
+bakery,1,8,675,503
+bakery,3,13,676,518
+personal care,2,8,199,138
+breakfast,2,8,382,271
+produce,5,6,833,202
+meat seafood,5,6,59,48
+pantry,5,6,174,101
+dairy eggs,5,6,484,212
+beverages,6,1,111,56
+household,6,1,29,16
+produce,6,1,315,86
+deli,6,1,48,33
+canned goods,6,1,35,24
+produce,4,16,5074,1460
+beverages,4,16,1700,912
+dry goods pasta,3,19,301,203
+missing,5,22,18,18
+snacks,5,22,495,248
+personal care,5,22,98,71
+international,2,0,10,7
+deli,5,17,651,459
+dry goods pasta,5,17,454,312
+personal care,5,17,260,177
+household,2,6,82,42
+deli,0,0,73,51
+beverages,0,0,234,112
+dairy eggs,0,0,401,165
+frozen,0,0,179,98
+produce,0,0,836,203
+pantry,4,7,432,255
+pantry,5,13,1306,753
+bakery,1,21,234,183
+produce,2,21,2033,494
+snacks,2,21,616,272
+breakfast,2,21,151,119
+frozen,4,7,456,255
+dry goods pasta,4,7,194,131
+babies,6,19,160,56
+personal care,6,19,175,122
+international,3,9,112,91
+deli,5,14,726,527
+babies,5,11,250,116
+babies,2,11,331,133
+pantry,6,18,869,534
+dry goods pasta,1,19,314,210
+produce,1,19,3467,966
+meat seafood,3,10,364,311
+other,6,14,33,32
+meat seafood,6,14,629,502
+pantry,6,15,1414,826
+canned goods,3,10,589,372
+canned goods,5,9,610,415
+bakery,0,20,443,329
+alcohol,0,20,37,24
+dry goods pasta,5,14,564,398
+breakfast,6,19,216,163
+snacks,5,0,164,78
+bakery,5,0,86,61
+pantry,6,11,1447,842
+babies,3,12,273,111
+personal care,6,13,329,231
+deli,6,13,699,540
+babies,6,13,276,118
+babies,2,9,369,133
+alcohol,6,13,100,56
+other,3,15,20,20
+alcohol,1,8,65,39
+bakery,6,15,857,644
+frozen,5,21,427,224
+meat seafood,5,21,113,84
+bulk,0,7,17,17
+personal care,5,16,282,206
+dry goods pasta,1,13,788,537
+deli,5,10,735,515
+frozen,2,8,880,497
+babies,5,9,352,138
+alcohol,5,12,156,77
+deli,1,21,225,178
+household,0,17,503,342
+produce,3,6,870,202
+bakery,3,6,111,83
+snacks,1,3,32,16
+deli,1,3,17,14
+personal care,1,22,94,66
+bakery,4,16,600,476
+deli,4,16,541,413
+canned goods,2,8,432,291
+bakery,3,8,429,319
+meat seafood,3,17,357,294
+breakfast,3,17,362,275
+meat seafood,2,11,473,378
+alcohol,2,13,139,63
+canned goods,5,16,593,399
+dry goods pasta,5,16,547,373
+babies,5,16,239,94
+bakery,2,22,144,111
+international,0,7,65,58
+pantry,2,10,1155,700
+meat seafood,1,21,163,137
+dry goods pasta,4,13,507,341
+canned goods,4,13,602,388
+snacks,6,21,647,301
+canned goods,6,21,266,170
+babies,6,21,107,49
+deli,6,21,235,184
+pets,0,15,81,50
+household,0,15,684,438
+frozen,3,20,584,316
+household,1,12,574,376
+breakfast,1,17,460,349
+pets,1,7,26,14
+missing,1,9,76,69
+beverages,3,2,67,30
+dairy eggs,3,2,98,42
+snacks,3,2,57,29
+alcohol,3,13,127,65
+international,5,15,174,147
+dry goods pasta,3,13,525,376
+dry goods pasta,5,0,44,31
+babies,5,0,31,17
+dry goods pasta,6,14,678,470
+household,4,21,192,119
+canned goods,3,17,543,361
+beverages,6,20,604,344
+snacks,6,20,634,334
+beverages,1,0,159,89
+dairy eggs,1,0,320,129
+frozen,3,13,1324,710
+deli,5,22,188,139
+international,6,18,131,103
+frozen,3,6,250,113
+personal care,4,23,45,32
+household,4,23,64,39
+household,0,22,164,91
+frozen,1,20,717,392
+dry goods pasta,1,20,259,183
+household,1,19,343,215
+other,4,15,30,30
+breakfast,5,12,458,336
+deli,4,0,59,40
+bulk,6,8,21,19
+dry goods pasta,2,5,23,15
+meat seafood,5,13,466,370
+meat seafood,4,7,155,124
+canned goods,4,7,215,142
+deli,2,21,187,143
+frozen,2,21,508,263
+beverages,2,21,484,274
+bakery,2,10,879,638
+international,6,15,190,155
+international,0,8,185,144
+missing,1,18,35,31
+beverages,5,19,992,539
+alcohol,5,19,81,54
+meat seafood,4,13,415,333
+household,4,12,376,257
+meat seafood,4,8,247,204
+beverages,4,2,63,27
+dairy eggs,4,2,98,36
+deli,1,13,986,703
+international,5,22,36,30
+household,4,13,422,275
+snacks,1,21,710,321
+alcohol,3,23,7,4
+dairy eggs,0,5,103,36
+beverages,0,5,52,32
+produce,0,5,192,37
+dry goods pasta,0,5,24,14
+alcohol,5,13,155,79
+pets,3,12,53,34
+babies,0,21,201,73
+international,0,21,83,68
+canned goods,3,18,420,279
+international,3,18,106,81
+meat seafood,0,0,49,43
+household,1,6,80,49
+dry goods pasta,1,6,115,63
+produce,1,6,1127,264
+frozen,3,1,49,30
+pets,0,14,95,69
+household,4,7,175,110
+household,1,7,206,135
+household,4,8,257,167
+international,6,9,159,129
+pets,6,14,94,60
+pets,5,16,63,42
+personal care,1,15,320,243
+household,2,20,234,132
+personal care,4,12,247,167
+alcohol,2,21,14,9
+canned goods,2,21,187,125
+household,2,21,165,95
+meat seafood,1,19,285,231
+babies,0,13,588,220
+personal care,4,19,176,128
+personal care,5,11,290,203
+beverages,4,22,456,268
+produce,1,3,97,33
+household,1,3,13,7
+dry goods pasta,2,10,475,326
+breakfast,5,21,147,106
+bulk,5,16,22,21
+dry goods pasta,6,5,15,10
+frozen,3,8,760,408
+deli,1,1,23,19
+alcohol,1,19,72,33
+deli,4,17,516,382
+breakfast,6,13,490,367
+household,0,9,568,371
+international,3,16,153,135
+babies,0,8,397,147
+babies,2,16,200,93
+other,2,9,27,27
+deli,6,7,229,174
+pets,6,17,67,33
+babies,4,10,326,123
+babies,2,17,205,110
+canned goods,3,11,597,387
+canned goods,3,22,179,116
+beverages,3,22,408,226
+missing,0,19,29,25
+breakfast,1,22,114,90
+personal care,0,15,455,341
+meat seafood,2,0,43,35
+breakfast,0,20,258,193
+dairy eggs,1,5,189,72
+personal care,3,21,76,54
+missing,4,20,18,16
+international,4,20,77,56
+pantry,3,22,326,190
+international,2,18,122,106
+dry goods pasta,2,18,423,279
+produce,6,3,118,36
+dairy eggs,6,3,57,26
+deli,6,3,11,9
+frozen,6,3,25,16
+meat seafood,2,18,290,246
+canned goods,4,19,363,231
+canned goods,5,2,35,14
+bakery,5,2,20,15
+snacks,5,2,39,27
+dry goods pasta,5,2,23,15
+pets,5,2,6,4
+bakery,4,5,21,17
+deli,4,5,33,22
+meat seafood,3,22,147,118
+household,3,8,362,225
+babies,6,7,135,63
+meat seafood,1,13,681,553
+breakfast,6,12,464,363
+babies,0,7,158,61
+personal care,4,21,119,84
+pantry,4,21,465,269
+international,2,10,167,140
+breakfast,2,6,52,43
+international,2,14,162,130
+breakfast,2,20,189,145
+missing,0,13,84,72
+babies,3,13,320,138
+personal care,3,13,262,187
+personal care,5,15,283,201
+international,5,16,164,119
+bulk,0,12,39,39
+international,3,11,186,144
+missing,4,8,25,22
+personal care,5,14,272,205
+international,3,22,69,48
+meat seafood,4,21,147,122
+canned goods,4,21,223,151
+other,6,9,17,17
+international,6,11,221,166
+other,6,10,29,28
+international,6,10,199,167
+bakery,1,19,420,320
+canned goods,4,23,104,74
+bakery,3,23,124,96
+frozen,3,23,231,117
+dry goods pasta,3,23,84,58
+babies,6,23,42,20
+personal care,2,19,173,116
+missing,4,7,18,17
+deli,4,22,213,148
+other,4,22,7,7
+dairy eggs,4,22,1068,396
+bakery,2,0,63,46
+international,6,14,182,162
+meat seafood,3,18,297,247
+dry goods pasta,6,18,413,289
+personal care,1,18,241,187
+babies,2,15,250,119
+dry goods pasta,2,14,493,340
+dry goods pasta,6,0,39,27
+meat seafood,6,0,36,30
+international,6,0,15,11
+pantry,6,0,96,58
+missing,6,0,5,4
+dry goods pasta,4,12,458,305
+pets,4,6,9,6
+produce,3,3,100,30
+personal care,3,3,5,4
+babies,5,17,159,77
+household,2,13,530,313
+missing,5,10,47,38
+alcohol,4,8,49,27
+international,5,9,157,136
+international,4,12,146,116
+babies,1,10,471,186
+deli,6,6,37,31
+meat seafood,2,5,14,14
+pantry,2,5,65,40
+international,0,19,92,78
+personal care,5,10,285,206
+dry goods pasta,6,10,669,458
+household,1,20,251,152
+babies,5,22,85,34
+deli,1,6,132,85
+canned goods,1,6,119,67
+bakery,1,6,145,110
+frozen,1,6,229,130
+dairy eggs,2,2,57,31
+bakery,2,2,17,14
+babies,4,16,252,114
+produce,2,23,1018,258
+snacks,2,23,323,150
+personal care,2,23,38,25
+canned goods,5,18,394,260
+international,5,17,153,116
+personal care,6,7,97,75
+international,6,17,158,121
+personal care,2,6,50,34
+household,6,23,72,49
+beverages,1,5,114,51
+other,1,17,31,31
+international,2,16,178,147
+babies,5,18,124,67
+babies,3,8,194,88
+dry goods pasta,3,8,277,195
+babies,1,14,343,146
+pets,6,15,92,51
+international,4,13,157,135
+bakery,0,23,177,129
+pets,1,20,24,20
+pets,2,9,46,27
+pets,0,11,100,54
+household,3,7,182,102
+dairy eggs,1,2,102,41
+pantry,1,2,43,25
+beverages,1,2,68,26
+personal care,1,2,13,7
+household,6,20,159,105
+alcohol,0,12,78,53
+pets,6,10,84,53
+babies,1,9,463,166
+personal care,1,9,325,236
+pantry,2,2,27,18
+dry goods pasta,2,2,20,11
+produce,4,2,169,42
+missing,6,17,42,37
+frozen,2,23,299,138
+canned goods,2,23,86,57
+deli,2,23,104,82
+breakfast,2,23,90,69
+missing,0,12,84,75
+bakery,6,18,528,398
+other,5,18,22,22
+bakery,2,5,24,20
+personal care,2,7,128,94
+bulk,6,19,7,7
+pets,5,9,63,38
+pets,2,17,53,39
+bulk,3,10,17,16
+bulk,0,23,9,9
+alcohol,4,19,65,46
+canned goods,2,6,76,49
+international,0,20,94,82
+alcohol,1,13,105,58
+other,3,11,26,24
+breakfast,4,8,251,191
+meat seafood,5,23,87,69
+frozen,5,23,317,154
+dairy eggs,5,23,593,239
+produce,1,23,1199,295
+pets,0,10,89,55
+personal care,6,8,201,147
+international,0,23,41,32
+breakfast,0,23,105,74
+babies,2,14,288,121
+snacks,2,1,75,40
+frozen,2,1,63,35
+bulk,2,1,1,1
+produce,2,1,245,76
+missing,1,0,10,7
+pantry,1,0,127,70
+international,1,18,127,114
+babies,1,18,177,87
+alcohol,6,20,46,27
+bulk,4,16,23,23
+babies,2,10,412,134
+household,3,6,67,44
+dry goods pasta,3,6,83,60
+other,2,18,18,18
+bulk,0,8,25,25
+bulk,5,17,27,27
+alcohol,4,7,23,17
+breakfast,4,7,214,132
+missing,3,17,31,31
+beverages,3,5,66,42
+breakfast,3,5,16,16
+alcohol,0,13,125,92
+breakfast,5,19,242,175
+international,4,6,21,20
+meat seafood,4,20,191,160
+meat seafood,5,19,242,200
+missing,1,15,68,56
+alcohol,4,12,102,57
+other,2,15,21,21
+pantry,0,6,100,59
+international,1,14,228,200
+pets,5,17,45,32
+dry goods pasta,2,22,126,93
+bulk,5,9,16,16
+other,6,17,15,15
+dry goods pasta,4,19,275,195
+frozen,3,3,11,8
+international,5,14,151,109
+pets,6,16,68,45
+missing,4,13,53,46
+babies,6,8,280,106
+dry goods pasta,1,21,186,137
+canned goods,0,0,100,62
+snacks,0,0,241,104
+personal care,2,21,85,57
+personal care,5,18,240,156
+international,2,2,5,3
+other,0,19,19,19
+babies,4,17,224,98
+other,4,14,24,22
+personal care,0,22,100,58
+pantry,2,22,292,160
+other,4,10,25,24
+other,3,10,23,21
+pantry,3,5,65,36
+dairy eggs,3,5,155,62
+pets,1,19,46,24
+personal care,4,7,99,71
+missing,3,14,37,37
+dry goods pasta,4,20,177,133
+dairy eggs,3,0,283,124
+beverages,3,0,140,81
+pantry,0,3,50,31
+international,0,3,6,4
+beverages,2,23,304,160
+bakery,0,6,87,60
+international,0,6,11,9
+babies,0,6,46,23
+meat seafood,4,19,217,181
+breakfast,4,21,159,123
+personal care,6,12,345,250
+bakery,4,22,214,147
+pantry,4,23,223,127
+international,1,9,222,174
+produce,2,4,114,31
+snacks,2,4,35,12
+missing,2,4,2,2
+personal care,6,21,96,72
+alcohol,0,21,28,16
+other,5,17,17,17
+babies,4,14,284,122
+pets,1,12,132,62
+bakery,3,21,212,153
+babies,1,0,18,9
+personal care,1,5,17,12
+household,1,21,213,111
+bakery,0,4,24,19
+breakfast,0,4,20,16
+pantry,0,4,24,19
+missing,3,11,42,37
+international,5,11,201,154
+pets,1,13,89,49
+missing,5,14,39,35
+breakfast,5,7,205,145
+bulk,0,19,21,21
+personal care,6,20,108,75
+pets,2,5,1,1
+household,4,6,80,41
+other,4,9,20,19
+bulk,2,12,24,24
+missing,2,13,36,31
+bakery,5,5,32,22
+bulk,2,13,22,22
+pets,5,22,37,14
+snacks,0,5,39,22
+other,6,11,28,28
+alcohol,4,23,7,5
+pets,4,12,66,37
+breakfast,1,5,35,27
+household,0,0,66,42
+pets,4,19,47,36
+personal care,4,20,122,86
+babies,3,6,49,26
+missing,6,14,53,43
+meat seafood,1,23,82,66
+household,5,7,248,141
+dry goods pasta,1,23,94,69
+babies,1,17,229,108
+alcohol,1,12,106,53
+dry goods pasta,0,22,249,157
+other,3,16,19,19
+international,3,17,152,121
+alcohol,2,12,103,53
+pets,1,6,13,7
+household,3,3,8,6
+personal care,0,0,32,24
+dry goods pasta,0,0,73,48
+missing,4,19,18,15
+pets,0,9,75,46
+bulk,1,12,31,31
+produce,3,1,271,59
+dry goods pasta,3,1,21,18
+bakery,3,1,26,18
+other,0,12,35,35
+pets,0,16,105,67
+pets,6,9,64,46
+bulk,5,15,28,27
+other,6,15,32,31
+babies,3,21,112,47
+bulk,1,21,7,7
+alcohol,4,13,137,59
+missing,5,16,48,43
+pets,2,15,61,34
+pets,2,22,23,11
+bulk,2,20,12,12
+produce,3,4,115,36
+household,0,5,14,12
+personal care,0,5,20,11
+canned goods,1,3,14,10
+dry goods pasta,1,3,14,11
+frozen,1,3,31,17
+bakery,1,3,16,14
+alcohol,6,8,42,24
+bakery,6,0,54,45
+meat seafood,1,6,68,52
+beverages,5,3,90,34
+household,5,3,30,15
+breakfast,5,3,16,12
+dairy eggs,5,3,93,33
+produce,5,3,191,38
+alcohol,0,4,2,2
+bulk,4,11,27,26
+canned goods,5,0,78,45
+canned goods,5,5,41,24
+other,5,14,21,21
+bulk,3,16,18,17
+frozen,1,1,64,31
+snacks,1,1,66,29
+other,0,13,36,36
+canned goods,6,6,71,43
+personal care,3,6,30,24
+alcohol,5,23,12,7
+household,5,1,15,11
+pets,4,7,19,10
+missing,2,20,15,12
+other,1,16,29,28
+other,1,0,2,2
+snacks,3,0,141,65
+missing,2,12,43,34
+frozen,4,23,235,116
+alcohol,6,19,66,39
+missing,1,10,69,60
+breakfast,0,1,27,23
+pantry,0,1,75,50
+breakfast,5,6,95,63
+missing,6,10,69,59
+alcohol,2,20,26,19
+deli,4,2,30,18
+snacks,4,2,46,22
+bakery,4,2,22,17
+canned goods,2,1,49,25
+dairy eggs,6,1,185,78
+frozen,6,1,79,43
+breakfast,6,1,32,21
+international,4,21,57,47
+missing,4,21,16,11
+bulk,4,18,10,10
+other,2,16,31,30
+missing,6,11,46,39
+personal care,5,0,28,24
+international,5,0,16,12
+missing,3,10,43,30
+missing,6,9,40,34
+breakfast,1,2,13,9
+other,5,9,34,32
+pantry,6,2,28,16
+international,4,7,57,44
+missing,2,8,37,31
+deli,5,0,61,43
+alcohol,3,19,62,43
+missing,5,15,45,37
+household,3,23,77,51
+produce,5,4,176,35
+dairy eggs,5,4,95,39
+bulk,0,13,39,38
+breakfast,1,0,40,30
+frozen,5,1,64,30
+dairy eggs,5,1,112,51
+meat seafood,5,1,21,18
+dry goods pasta,4,23,65,49
+meat seafood,6,5,17,15
+pets,2,14,59,37
+bulk,4,14,19,19
+babies,3,3,4,2
+dry goods pasta,3,3,8,4
+missing,1,14,50,44
+babies,0,1,7,4
+missing,6,15,56,51
+bulk,1,19,15,15
+household,1,23,88,58
+pets,3,8,32,21
+bulk,6,12,25,24
+alcohol,3,12,108,66
+bulk,5,14,24,23
+international,0,1,15,11
+missing,0,1,1,1
+bakery,0,1,38,36
+international,4,19,88,65
+international,4,23,35,30
+snacks,2,3,32,18
+frozen,2,3,22,10
+canned goods,2,3,15,5
+beverages,2,3,28,16
+personal care,2,3,3,3
+missing,3,18,37,30
+babies,2,18,204,90
+snacks,5,5,55,29
+personal care,1,0,20,18
+missing,1,17,36,33
+bulk,5,18,18,18
+pantry,3,2,37,19
+deli,3,2,19,13
+household,6,21,95,71
+other,1,9,32,32
+snacks,6,1,91,44
+personal care,6,1,29,17
+pets,2,10,55,37
+produce,0,2,315,67
+beverages,0,2,71,40
+meat seafood,0,2,21,19
+dairy eggs,0,2,165,66
+frozen,0,2,69,37
+breakfast,4,23,54,41
+babies,3,7,133,58
+other,0,7,13,13
+pets,2,18,48,32
+deli,1,23,143,105
+personal care,3,7,118,81
+household,5,6,89,54
+beverages,5,6,246,127
+other,2,14,34,32
+meat seafood,3,0,37,30
+deli,3,0,53,41
+pets,6,22,13,9
+bulk,3,17,15,15
+other,1,11,36,36
+international,5,18,104,91
+pantry,5,3,50,24
+meat seafood,5,3,17,13
+frozen,5,3,35,18
+missing,0,21,21,16
+bulk,6,20,6,6
+frozen,3,4,44,18
+bulk,1,13,28,28
+meat seafood,4,23,51,42
+personal care,4,6,57,34
+missing,6,16,58,52
+frozen,5,6,218,111
+babies,4,18,109,56
+other,2,17,23,23
+personal care,5,5,16,11
+deli,5,5,23,18
+dry goods pasta,5,5,25,17
+bulk,3,14,16,16
+bulk,2,23,4,4
+household,2,1,20,15
+pets,0,18,52,38
+household,5,23,69,52
+missing,0,23,9,7
+babies,4,0,23,12
+deli,5,2,20,16
+pets,5,15,90,42
+canned goods,3,0,68,41
+international,4,8,79,72
+missing,4,12,42,37
+alcohol,1,7,25,14
+pets,2,11,79,35
+pets,5,10,64,45
+other,6,22,6,6
+missing,3,15,34,28
+bulk,2,21,6,6
+bulk,4,22,7,7
+missing,2,6,4,4
+meat seafood,0,5,19,16
+other,6,16,28,27
+frozen,4,1,54,33
+breakfast,4,1,12,8
+other,3,14,22,22
+other,1,14,30,29
+dry goods pasta,3,4,10,9
+personal care,5,2,14,9
+alcohol,5,7,27,17
+missing,2,21,14,12
+personal care,3,1,9,8
+missing,2,3,1,1
+dry goods pasta,1,1,28,16
+pantry,5,4,35,21
+pantry,6,5,40,27
+bakery,0,3,33,25
+missing,0,20,21,19
+pets,6,18,63,28
+babies,3,20,129,56
+international,2,22,49,41
+pantry,3,0,108,70
+bakery,6,5,26,20
+beverages,6,4,41,21
+deli,6,4,14,9
+other,3,22,7,7
+bulk,6,21,6,6
+missing,2,7,12,11
+other,0,21,10,10
+dairy eggs,6,4,80,36
+breakfast,6,4,17,12
+household,6,4,26,10
+canned goods,6,4,20,14
+produce,6,4,134,31
+pets,3,13,57,40
+pets,4,8,50,37
+pets,5,14,69,40
+other,0,8,17,17
+breakfast,3,0,27,26
+international,3,0,18,16
+bulk,3,0,2,2
+dry goods pasta,0,2,18,15
+canned goods,0,2,21,17
+missing,0,7,19,15
+frozen,4,3,15,8
+meat seafood,4,3,10,8
+bulk,4,10,26,26
+alcohol,1,21,23,15
+produce,5,1,196,57
+beverages,5,1,72,43
+breakfast,5,1,19,11
+pantry,5,1,50,32
+snacks,3,5,65,32
+missing,5,18,27,25
+missing,5,11,53,46
+babies,4,22,91,42
+meat seafood,1,1,13,11
+pets,5,18,55,35
+household,2,23,66,42
+dry goods pasta,2,0,39,30
+bulk,0,20,15,15
+household,6,6,58,31
+personal care,6,6,36,25
+other,5,22,9,8
+alcohol,0,7,35,14
+dry goods pasta,4,6,67,42
+meat seafood,4,4,6,6
+canned goods,4,4,25,14
+breakfast,4,4,6,5
+frozen,4,4,27,17
+pets,1,8,52,35
+other,4,16,30,28
+breakfast,4,3,8,5
+snacks,0,2,78,33
+personal care,3,23,55,34
+international,3,2,3,3
+meat seafood,3,2,14,10
+bakery,3,4,14,11
+other,6,18,23,22
+pets,1,21,20,15
+pets,5,0,4,4
+missing,5,17,31,29
+meat seafood,5,4,17,13
+babies,6,20,85,46
+missing,3,16,45,40
+alcohol,6,4,1,1
+breakfast,0,6,56,46
+produce,1,4,100,29
+alcohol,1,6,4,4
+missing,0,8,41,40
+international,1,0,12,11
+babies,2,0,17,7
+bulk,0,21,18,18
+missing,2,19,27,23
+frozen,2,4,28,11
+deli,2,4,13,8
+pets,4,21,26,12
+bulk,5,10,25,25
+meat seafood,3,5,24,19
+pets,4,20,36,26
+canned goods,3,2,27,15
+pantry,4,4,22,11
+household,4,4,17,10
+missing,3,5,3,3
+alcohol,1,20,39,25
+bulk,0,6,2,2
+canned goods,0,5,28,16
+canned goods,3,5,43,26
+snacks,6,3,38,20
+meat seafood,1,3,7,6
+pantry,4,3,10,8
+babies,4,2,5,3
+alcohol,4,20,33,16
+household,2,4,9,5
+beverages,2,4,32,20
+canned goods,1,4,9,8
+meat seafood,1,4,14,11
+bakery,1,4,13,12
+frozen,0,5,25,15
+household,0,2,20,11
+deli,0,2,23,15
+babies,2,22,78,34
+pets,0,22,14,8
+deli,2,1,37,24
+other,3,17,11,11
+beverages,2,1,81,40
+deli,3,5,20,15
+pets,3,20,17,13
+pets,1,23,4,3
+breakfast,2,1,25,20
+alcohol,6,6,10,7
+breakfast,6,3,8,6
+beverages,6,3,34,21
+breakfast,0,3,13,11
+alcohol,5,20,25,16
+bulk,2,19,12,12
+bulk,4,9,32,31
+bulk,3,22,9,8
+missing,3,22,12,10
+household,6,3,10,8
+household,1,4,11,6
+alcohol,1,4,3,2
+beverages,5,4,41,24
+alcohol,3,7,10,8
+alcohol,2,7,36,21
+bulk,6,13,31,30
+bakery,6,2,17,13
+missing,6,18,40,36
+international,0,4,3,2
+bulk,2,6,5,5
+other,2,10,28,27
+other,6,0,4,4
+deli,0,5,15,10
+missing,6,5,1,1
+babies,2,5,6,5
+deli,1,4,19,10
+household,5,4,10,9
+babies,3,23,37,19
+alcohol,0,19,57,32
+personal care,2,1,19,11
+alcohol,3,8,51,31
+missing,3,9,43,35
+other,3,9,26,25
+missing,2,23,10,6
+bulk,4,0,1,1
+bulk,2,8,11,10
+breakfast,2,4,3,2
+canned goods,2,4,21,10
+international,1,5,3,3
+missing,0,4,3,2
+bulk,3,15,20,20
+bakery,3,3,10,7
+alcohol,5,21,8,7
+international,2,5,5,4
+snacks,6,4,26,15
+bulk,3,9,27,24
+breakfast,5,4,11,7
+personal care,2,4,5,4
+alcohol,3,6,7,7
+bulk,3,18,14,14
+alcohol,0,1,3,3
+bulk,2,3,1,1
+alcohol,6,21,13,10
+other,1,18,13,13
+pets,3,7,21,13
+canned goods,6,3,8,8
+babies,1,5,5,5
+personal care,6,3,8,8
+bulk,5,11,25,23
+meat seafood,6,2,13,9
+canned goods,4,1,19,13
+frozen,6,4,32,18
+pets,2,0,6,4
+bulk,6,23,6,6
+household,3,1,30,16
+alcohol,6,7,15,11
+other,4,11,27,25
+household,1,1,25,15
+babies,5,5,4,3
+missing,4,23,8,7
+international,4,1,6,6
+bulk,2,7,11,9
+other,3,0,2,2
+missing,6,2,2,2
+bakery,1,1,26,20
+canned goods,1,1,14,12
+bulk,1,7,6,6
+missing,4,6,3,3
+international,3,5,8,6
+household,3,4,8,5
+other,5,2,2,2
+alcohol,4,21,19,13
+alcohol,2,23,26,8
+other,0,1,5,5
+alcohol,5,6,5,4
+dry goods pasta,4,1,16,10
+alcohol,5,3,12,4
+alcohol,3,3,1,1
+other,1,22,6,5
+alcohol,4,4,4,2
+international,5,2,4,4
+pets,4,4,4,2
+international,4,4,3,3
+alcohol,1,23,2,2
+bulk,6,7,7,7
+missing,2,1,2,2
+breakfast,3,2,6,5
+snacks,1,4,35,15
+missing,3,0,7,5
+pets,1,1,1,1
+pets,4,23,11,5
+alcohol,0,6,5,5
+bulk,1,6,5,5
+bulk,5,22,4,4
+bulk,1,20,4,4
+frozen,5,4,37,16
+dry goods pasta,1,4,19,10
+frozen,1,4,43,16
+personal care,4,4,5,5
+pets,6,0,3,2
+other,5,10,24,23
+alcohol,3,1,3,3
+personal care,0,2,7,5
+pets,3,1,18,1
+bulk,1,23,7,7
+babies,2,2,1,1
+international,5,5,4,4
+other,0,20,13,13
+babies,1,2,8,2
+alcohol,3,21,9,6
+babies,6,1,19,5
+pets,3,6,16,5
+international,6,5,4,3
+pets,3,23,9,5
+other,3,5,1,1
+bulk,0,3,3,3
+other,1,2,2,2
+canned goods,4,3,5,3
+other,2,5,2,2
+alcohol,6,23,2,2
+dry goods pasta,4,4,9,5
+missing,5,0,3,3
+other,5,0,3,3
+personal care,3,4,2,2
+meat seafood,2,2,8,6
+missing,4,1,1,1
+pets,0,5,2,2
+personal care,6,4,12,9
+pets,0,0,8,7
+alcohol,2,6,3,3
+personal care,4,3,6,5
+household,4,3,2,2
+babies,0,3,9,6
+babies,3,1,2,1
+missing,5,2,2,1
+babies,0,4,12,4
+bulk,6,4,1,1
+missing,1,22,7,6
+babies,5,2,2,1
+missing,3,2,2,2
+alcohol,5,4,2,1
+pets,1,4,2,2
+bulk,6,6,1,1
+alcohol,5,1,6,3
+bulk,5,0,1,1
+pets,5,5,4,4
+pets,4,3,8,2
+bulk,5,5,2,2
+dry goods pasta,6,2,8,7
+pets,3,4,10,3
+international,1,2,4,3
+alcohol,0,23,4,2
+bulk,4,5,2,2
+alcohol,4,6,3,2
+other,4,0,2,2
+alcohol,2,1,1,1
+alcohol,1,1,9,1
+bulk,6,1,1,1
+alcohol,2,4,5,4
+bulk,1,3,1,1
+pets,6,2,1,1
+missing,4,3,1,1
+missing,1,5,1,1
+other,6,5,1,1
+international,4,3,1,1
+dry goods pasta,4,3,6,2
+alcohol,6,1,2,1
+pets,2,2,3,2
+alcohol,6,3,3,2
+babies,6,3,2,2
+babies,6,4,4,1
+other,0,6,4,4
+missing,0,6,1,1
+other,5,5,1,1
+pets,6,5,2,2
+other,2,0,1,1
+alcohol,4,1,3,1
+babies,3,4,1,1
+pets,0,2,1,1
+bulk,1,4,1,1
+pets,1,3,1,1
+dairy eggs,,9,28577,10751
+pantry,,9,8499,5144
+canned goods,,19,2511,1664
+canned goods,,12,5751,3649
+produce,,12,49094,12262
+beverages,,12,13410,7280
+pantry,,14,10030,5930
+international,,14,1325,1110
+deli,,14,5344,3978
+frozen,,10,10506,5594
+dry goods pasta,,10,4231,2921
+dairy eggs,,10,29760,11634
+snacks,,10,16072,7465
+dairy eggs,,18,17260,7490
+deli,,18,3599,2686
+meat seafood,,18,2328,1907
+pantry,,18,6078,3739
+bakery,,18,3792,2925
+frozen,,18,8326,4409
+dry goods pasta,,18,2815,1937
+snacks,,18,8803,4606
+household,,18,2482,1646
+personal care,,18,1548,1121
+frozen,,11,11156,5886
+dairy eggs,,11,28867,11439
+pantry,,11,10149,5965
+snacks,,11,16129,7310
+deli,,15,5547,4048
+snacks,,15,14841,7179
+bakery,,15,6252,4682
+dairy eggs,,15,27423,11336
+missing,,19,166,142
+bakery,,22,1408,1042
+pantry,,22,2437,1390
+frozen,,22,3054,1534
+beverages,,19,6538,3768
+produce,,19,22624,6144
+breakfast,,16,3485,2617
+frozen,,16,11887,6319
+snacks,,16,14151,7099
+deli,,16,5269,3875
+bakery,,16,5851,4491
+meat seafood,,22,937,744
+dairy eggs,,22,7081,2645
+pantry,,15,9761,5880
+dry goods pasta,,15,4639,3215
+babies,,20,1120,466
+beverages,,20,4806,2792
+produce,,20,19507,4918
+international,,10,1423,1149
+meat seafood,,14,3903,3168
+bakery,,14,6003,4574
+breakfast,,14,3632,2714
+dairy eggs,,14,27676,11302
+household,,14,3673,2337
+dry goods pasta,,11,4571,3138
+bakery,,11,6107,4538
+dairy eggs,,17,21653,9177
+snacks,,17,11584,5858
+frozen,,17,10304,5444
+snacks,,9,14261,6638
+breakfast,,9,3391,2501
+canned goods,,8,3463,2240
+beverages,,8,8634,4669
+international,,11,1568,1264
+produce,,8,33147,8149
+other,,8,111,109
+household,,15,3557,2329
+meat seafood,,15,3915,3158
+frozen,,15,11964,6363
+breakfast,,15,3657,2714
+dairy eggs,,16,26308,11015
+babies,,12,2055,880
+bakery,,10,6139,4544
+pantry,,10,10114,6025
+produce,,6,5508,1369
+canned goods,,6,617,384
+international,,15,1434,1168
+produce,,7,17338,4330
+canned goods,,7,1730,1155
+dry goods pasta,,17,3936,2626
+pantry,,17,7585,4621
+produce,,13,50503,12651
+dry goods pasta,,14,4648,3239
+frozen,,14,11565,6231
+snacks,,14,14640,7172
+frozen,,9,9452,5091
+bakery,,9,5579,4080
+other,,12,167,164
+canned goods,,13,5891,3754
+meat seafood,,16,3696,3022
+dry goods pasta,,16,4598,3148
+snacks,,0,1171,547
+frozen,,0,1075,517
+dairy eggs,,0,2159,908
+beverages,,7,4535,2506
+beverages,,1,631,316
+produce,,1,1987,516
+bakery,,17,4916,3735
+meat seafood,,17,2968,2440
+household,,17,2841,1891
+breakfast,,17,2918,2220
+pantry,,16,9256,5596
+personal care,,17,1804,1327
+beverages,,13,13876,7509
+canned goods,,20,2020,1342
+household,,22,818,503
+babies,,19,1193,500
+international,,17,1142,909
+pets,,17,456,287
+produce,,21,15754,3704
+beverages,,21,3714,2090
+canned goods,,21,1562,1046
+household,,10,3975,2514
+personal care,,14,2273,1617
+alcohol,,12,746,420
+bakery,,0,461,342
+pantry,,0,849,492
+meat seafood,,0,289,237
+deli,,11,5878,4202
+produce,,4,927,229
+beverages,,4,266,144
+deli,,10,5545,3991
+beverages,,23,2068,1099
+breakfast,,10,3832,2771
+produce,,23,8177,1972
+deli,,17,4641,3381
+international,,16,1331,1103
+breakfast,,18,2289,1741
+alcohol,,8,377,219
+household,,16,3381,2249
+pets,,16,518,310
+international,,9,1208,976
+international,,22,385,304
+personal care,,15,2283,1656
+canned goods,,23,827,548
+dry goods pasta,,9,3646,2564
+deli,,9,4784,3510
+personal care,,16,2207,1612
+household,,9,3640,2266
+breakfast,,11,3744,2739
+meat seafood,,11,3866,3094
+pantry,,5,399,232
+meat seafood,,9,3251,2651
+snacks,,22,3489,1653
+dry goods pasta,,22,1169,767
+personal care,,10,2152,1568
+pets,,15,504,291
+international,,18,825,689
+breakfast,,22,895,657
+alcohol,,20,230,142
+household,,11,4011,2534
+personal care,,11,2354,1646
+personal care,,9,1974,1441
+dairy eggs,,5,989,411
+snacks,,5,442,237
+frozen,,5,428,213
+meat seafood,,10,3615,2932
+beverages,,6,1645,856
+pets,,11,502,281
+bulk,,12,180,179
+deli,,22,1351,1017
+household,,5,158,95
+pets,,10,506,302
+produce,,3,949,241
+babies,,6,288,136
+babies,,7,1144,479
+international,,5,39,30
+pets,,14,493,317
+alcohol,,19,458,281
+bulk,,8,119,116
+personal care,,22,593,394
+babies,,23,379,168
+personal care,,5,109,74
+babies,,8,1954,764
+canned goods,,1,196,129
+international,,0,101,85
+breakfast,,0,302,233
+deli,,0,462,330
+bulk,,7,61,58
+babies,,13,2474,992
+missing,,13,362,316
+alcohol,,13,888,472
+beverages,,3,325,165
+household,,0,303,204
+babies,,21,936,377
+household,,2,113,67
+personal care,,2,79,51
+dairy eggs,,2,701,286
+snacks,,2,370,171
+frozen,,2,311,157
+dry goods pasta,,0,352,246
+other,,6,27,26
+dry goods pasta,,5,161,99
+breakfast,,5,132,106
+personal care,,0,183,140
+pantry,,2,254,150
+alcohol,,23,60,30
+pets,,18,401,243
+missing,,20,125,111
+alcohol,,21,114,76
+missing,,8,238,213
+breakfast,,2,93,65
+bakery,,2,154,119
+meat seafood,,2,82,67
+dry goods pasta,,2,115,78
+pets,,2,16,12
+meat seafood,,5,136,112
+bakery,,5,181,146
+deli,,5,162,122
+pets,,22,142,69
+bulk,,13,194,191
+pets,,9,397,259
+other,,23,20,19
+missing,,7,125,105
+missing,,12,336,296
+other,,13,163,159
+bulk,,21,57,56
+deli,,2,159,107
+bulk,,19,86,85
+bulk,,23,40,40
+bulk,,1,2,2
+alcohol,,7,171,102
+missing,,23,52,40
+international,,2,22,18
+other,,19,98,91
+missing,,4,7,6
+babies,,4,30,17
+canned goods,,4,151,95
+pets,,5,27,21
+canned goods,,3,89,58
+bulk,,20,68,68
+babies,,3,32,18
+alcohol,,4,17,12
+missing,,21,120,98
+babies,,1,64,24
+other,,7,77,75
+other,,20,68,64
+missing,,1,19,17
+missing,,6,33,29
+bulk,,6,21,21
+missing,,3,4,4
+other,,21,59,57
+pets,,0,39,25
+alcohol,,6,37,32
+bulk,,4,7,6
+alcohol,,1,27,13
+bulk,,3,5,5
+other,,1,9,9
+alcohol,,3,16,7
+other,,3,2,2
+other,,4,4,4
+produce,,9,45785,11543
+frozen,,19,6493,3395
+deli,,19,2526,1905
+snacks,,19,6940,3549
+pantry,,19,4515,2852
+dairy eggs,,12,27151,11000
+frozen,,12,11040,5919
+pantry,,12,10105,5987
+produce,,14,49186,12601
+babies,,14,2354,980
+beverages,,9,13464,7056
+beverages,,10,15218,7808
+produce,,10,51249,12602
+canned goods,,10,5622,3531
+produce,,18,28742,8074
+canned goods,,18,3201,2150
+babies,,18,1194,560
+canned goods,,11,5841,3686
+produce,,11,50818,12638
+canned goods,,15,5757,3733
+produce,,15,49552,12745
+beverages,,15,13651,7539
+dry goods pasta,,19,2153,1491
+beverages,,22,2889,1631
+canned goods,,22,1373,878
+dairy eggs,,19,13045,5670
+produce,,16,46847,12395
+produce,,22,13308,3045
+bulk,,22,45,44
+other,,22,47,45
+pantry,,20,3667,2264
+dairy eggs,,20,10880,4476
+beverages,,14,13712,7537
+canned goods,,14,5589,3576
+beverages,,11,14892,7733
+produce,,17,38137,10168
+bakery,,12,5881,4352
+deli,,12,5580,4051
+breakfast,,12,3397,2523
+snacks,,12,14526,6993
+breakfast,,8,2463,1842
+snacks,,8,9346,4510
+alcohol,,11,739,412
+dry goods pasta,,12,4586,3146
+household,,12,3667,2389
+beverages,,18,8806,5023
+meat seafood,,6,399,326
+dairy eggs,,6,3365,1347
+bakery,,6,749,535
+snacks,,6,1593,772
+breakfast,,6,537,380
+frozen,,20,4888,2536
+dairy eggs,,7,10084,4021
+snacks,,7,4775,2358
+frozen,,7,3599,2050
+deli,,7,1683,1296
+pantry,,7,3176,1926
+dry goods pasta,,7,1514,1040
+international,,7,432,362
+breakfast,,7,1406,1012
+personal care,,7,781,568
+canned goods,,17,4316,2806
+dairy eggs,,13,28492,11314
+bakery,,13,6130,4626
+meat seafood,,13,4021,3236
+dry goods pasta,,13,4805,3291
+snacks,,13,14737,7160
+frozen,,13,11637,6180
+breakfast,,13,3519,2613
+alcohol,,0,31,21
+pantry,,13,10282,6090
+meat seafood,,21,1094,874
+deli,,21,1564,1176
+frozen,,21,3761,1942
+babies,,10,2383,943
+beverages,,16,13486,7372
+canned goods,,16,5280,3476
+produce,,0,4243,1056
+breakfast,,19,1808,1353
+dairy eggs,,1,990,441
+frozen,,1,467,256
+snacks,,1,535,260
+dairy eggs,,8,19819,7608
+meat seafood,,8,2460,2021
+household,,13,3927,2462
+beverages,,17,10962,6159
+bulk,,17,152,151
+bakery,,20,2176,1705
+breakfast,,20,1354,1019
+dry goods pasta,,20,1644,1153
+household,,20,1465,932
+bakery,,8,3949,2928
+personal care,,13,2232,1620
+international,,13,1434,1208
+bakery,,19,2870,2239
+meat seafood,,12,3934,3168
+alcohol,,15,936,521
+pets,,12,535,312
+household,,19,1995,1280
+beverages,,0,1133,600
+dairy eggs,,4,519,219
+snacks,,4,242,123
+deli,,4,113,76
+alcohol,,18,600,400
+snacks,,20,5154,2669
+frozen,,23,1938,981
+dairy eggs,,23,4561,1733
+snacks,,23,2188,1042
+deli,,23,895,685
+personal care,,23,362,249
+breakfast,,23,605,438
+frozen,,8,6764,3650
+dry goods pasta,,8,2702,1856
+deli,,8,3453,2548
+pantry,,8,6297,3756
+pantry,,6,1118,648
+breakfast,,21,1157,877
+household,,8,2572,1646
+international,,12,1476,1223
+personal care,,12,2322,1632
+babies,,15,2236,980
+bakery,,7,2094,1540
+bakery,,23,956,708
+dry goods pasta,,23,721,487
+personal care,,19,1258,903
+pets,,19,319,195
+bulk,,11,209,206
+canned goods,,9,4865,3116
+pantry,,21,3013,1768
+babies,,22,772,301
+personal care,,20,889,638
+international,,8,817,659
+other,,11,214,205
+dairy eggs,,21,8552,3242
+babies,,16,2290,876
+pantry,,23,1559,922
+international,,23,244,192
+babies,,11,2238,892
+beverages,,5,557,290
+produce,,5,1777,456
+personal care,,8,1344,980
+missing,,18,242,217
+meat seafood,,7,1232,1007
+deli,,13,5692,4091
+other,,18,123,122
+meat seafood,,19,1765,1445
+bulk,,16,162,158
+deli,,20,1991,1496
+bakery,,21,1641,1229
+snacks,,21,4373,2051
+household,,7,1380,835
+meat seafood,,20,1379,1132
+frozen,,6,1376,727
+international,,20,553,449
+other,,16,181,175
+pets,,13,474,286
+canned goods,,5,241,149
+alcohol,,10,779,383
+other,,10,192,186
+deli,,3,103,75
+pantry,,3,219,132
+bakery,,3,114,90
+breakfast,,3,67,53
+household,,3,87,56
+dairy eggs,,3,492,211
+other,,17,154,152
+babies,,9,2511,970
+missing,,15,350,299
+alcohol,,16,911,535
+other,,15,191,189
+dry goods pasta,,6,527,346
+international,,21,394,333
+household,,21,1115,694
+pets,,21,160,85
+dry goods pasta,,21,1252,887
+bulk,,15,194,190
+babies,,5,85,36
+missing,,9,341,292
+bakery,,1,202,160
+meat seafood,,1,135,112
+household,,1,179,107
+personal care,,1,110,81
+pantry,,1,389,250
+missing,,17,260,235
+babies,,17,1601,738
+missing,,11,350,309
+missing,,22,93,86
+missing,,16,357,318
+deli,,6,583,424
+deli,,1,202,145
+international,,1,47,35
+household,,6,498,289
+other,,14,200,193
+meat seafood,,23,565,455
+international,,6,153,120
+snacks,,3,266,129
+bulk,,18,101,97
+pets,,7,167,93
+produce,,2,1238,308
+beverages,,2,405,202
+babies,,0,160,73
+household,,23,506,343
+missing,,14,336,291
+personal care,,21,678,490
+personal care,,6,285,200
+alcohol,,17,776,461
+bulk,,14,192,189
+other,,9,191,186
+frozen,,3,196,104
+canned goods,,2,154,87
+alcohol,,14,927,517
+canned goods,,0,495,299
+pets,,20,209,133
+international,,19,622,505
+pets,,8,310,202
+alcohol,,9,624,301
+missing,,0,38,30
+pets,,6,78,45
+personal care,,3,43,38
+missing,,10,388,323
+alcohol,,2,14,10
+bulk,,10,234,229
+bulk,,9,208,203
+international,,3,30,20
+pets,,23,77,42
+bakery,,4,114,87
+pantry,,4,215,112
+breakfast,,4,76,56
+frozen,,4,248,115
+dry goods pasta,,4,88,60
+household,,4,91,53
+dry goods pasta,,1,197,120
+alcohol,,5,26,12
+dry goods pasta,,3,71,50
+alcohol,,22,97,52
+other,,0,17,17
+personal care,,4,38,33
+missing,,5,9,9
+breakfast,,1,138,103
+pets,,1,42,14
+meat seafood,,3,77,63
+meat seafood,,4,72,62
+international,,4,28,21
+pets,,4,47,20
+bulk,,0,17,17
+babies,,2,28,14
+pets,,3,51,14
+other,,5,6,6
+missing,,2,7,6
+other,,2,6,6
+bulk,,5,4,4
+,5,,278063,27863
+,0,,399999,36258
+,2,,268725,28361
+,1,,350755,35275
+,4,,238329,25715
+,6,,286214,26624
+,3,,243915,26561
+dairy eggs,5,9,4171,1494
+produce,5,9,6254,1526
+pantry,5,9,1194,714
+pantry,1,19,705,461
+canned goods,0,12,1317,834
+dairy eggs,0,12,5622,2265
+produce,0,12,11070,2550
+frozen,0,12,2406,1281
+beverages,0,12,2366,1359
+pantry,0,14,2227,1304
+international,0,14,332,283
+babies,0,14,549,217
+beverages,2,9,2034,1021
+frozen,4,10,1228,643
+dry goods pasta,4,10,441,308
+canned goods,4,10,571,358
+pantry,0,18,935,581
+bakery,0,18,584,448
+babies,0,18,198,91
+frozen,4,11,1191,639
+canned goods,4,11,606,394
+pantry,4,11,1103,643
+bakery,0,15,1335,1002
+dry goods pasta,6,19,306,220
+missing,6,19,17,15
+beverages,6,22,443,237
+frozen,6,22,443,216
+canned goods,6,22,195,135
+beverages,0,19,1035,589
+produce,0,19,4009,999
+dairy eggs,0,19,2239,938
+produce,5,16,5953,1612
+breakfast,5,16,502,366
+frozen,5,16,1545,805
+frozen,5,22,478,215
+beverages,5,22,396,225
+produce,2,22,1490,354
+beverages,2,22,322,186
+bulk,2,22,2,2
+canned goods,2,22,157,92
+pantry,5,15,1216,725
+beverages,5,15,1921,1043
+produce,5,15,6236,1613
+dairy eggs,5,15,3470,1413
+beverages,0,20,837,483
+dairy eggs,0,20,2057,828
+produce,0,20,4254,922
+meat seafood,5,14,482,379
+pantry,5,14,1306,749
+breakfast,5,14,498,378
+dairy eggs,5,14,3865,1497
+household,5,14,480,303
+beverages,5,14,2071,1064
+produce,5,14,6401,1674
+bakery,0,11,1192,888
+dairy eggs,5,17,2853,1198
+frozen,5,17,1302,692
+produce,5,17,4851,1318
+beverages,1,12,2169,1163
+dairy eggs,1,12,4418,1787
+breakfast,1,12,598,426
+beverages,6,9,1495,859
+dairy eggs,6,9,3464,1348
+snacks,6,9,1572,768
+breakfast,6,9,430,325
+produce,6,9,6214,1471
+snacks,0,8,1466,734
+canned goods,0,8,662,417
+beverages,0,8,1271,744
+produce,3,14,5430,1459
+babies,3,14,260,117
+produce,5,10,6825,1643
+beverages,5,10,2126,1058
+beverages,2,11,2181,1070
+produce,2,11,6338,1623
+canned goods,2,11,724,449
+frozen,2,11,1334,724
+other,5,8,22,20
+household,5,15,446,303
+meat seafood,5,15,463,375
+frozen,5,15,1434,800
+breakfast,5,15,496,362
+snacks,2,11,2140,950
+alcohol,2,11,96,52
+produce,2,16,5710,1650
+breakfast,2,16,438,338
+babies,1,12,316,140
+produce,2,14,5647,1556
+bakery,1,10,1195,841
+produce,1,10,10325,2522
+pantry,5,10,1374,816
+dairy eggs,5,10,3938,1546
+bakery,6,12,901,671
+pantry,6,12,1535,889
+produce,4,6,616,183
+dairy eggs,4,6,448,176
+bakery,4,6,82,62
+snacks,4,6,193,90
+dairy eggs,2,20,1531,644
+produce,2,15,6013,1651
+canned goods,2,15,715,440
+breakfast,2,15,508,343
+dairy eggs,1,7,1804,691
+pantry,1,7,454,305
+international,1,7,70,60
+breakfast,1,7,236,180
+personal care,1,7,118,81
+pantry,0,17,1430,869
+pantry,0,15,2061,1245
+dairy eggs,0,13,5877,2358
+produce,0,13,11554,2688
+meat seafood,0,13,999,795
+dry goods pasta,0,13,1109,759
+snacks,0,13,2787,1415
+frozen,0,13,2545,1344
+dry goods pasta,1,14,770,541
+canned goods,1,14,867,556
+produce,1,14,8324,2094
+bakery,1,14,983,760
+frozen,1,14,1714,946
+deli,1,14,859,650
+snacks,1,14,2427,1159
+frozen,3,9,1060,584
+bakery,3,9,666,482
+alcohol,4,0,3,2
+snacks,1,16,2279,1143
+snacks,3,12,1607,818
+dairy eggs,3,12,3078,1271
+breakfast,3,12,384,283
+pantry,3,12,1091,658
+other,3,12,19,19
+pantry,6,13,1622,911
+meat seafood,6,13,574,475
+produce,1,11,9778,2343
+household,2,15,402,278
+meat seafood,0,21,226,176
+deli,0,21,286,215
+frozen,0,21,680,361
+beverages,5,16,2002,1045
+meat seafood,5,16,477,388
+deli,1,16,900,659
+produce,1,16,7855,2018
+bakery,1,16,950,728
+meat seafood,1,16,590,481
+canned goods,1,16,828,552
+deli,0,12,1252,910
+dairy eggs,6,16,3597,1508
+produce,6,16,6846,1668
+deli,6,16,749,535
+frozen,6,16,1905,980
+pantry,1,13,1582,966
+dairy eggs,1,13,4758,1877
+frozen,4,0,155,56
+pantry,2,19,568,367
+dry goods pasta,2,19,303,218
+dairy eggs,2,7,1486,587
+beverages,0,1,142,64
+dairy eggs,0,1,176,88
+produce,0,1,454,109
+frozen,0,1,94,54
+snacks,0,1,114,53
+dairy eggs,3,8,2413,944
+snacks,3,8,1111,578
+meat seafood,3,8,300,245
+bakery,0,17,991,742
+produce,4,19,3122,863
+snacks,4,19,1048,515
+household,0,13,818,521
+snacks,6,17,1474,762
+produce,6,17,5586,1396
+household,6,17,366,257
+breakfast,6,17,408,316
+dairy eggs,6,17,3005,1250
+pantry,4,16,1136,660
+produce,3,15,5443,1538
+bakery,3,15,746,542
+frozen,3,15,1359,741
+dairy eggs,6,18,2452,1001
+beverages,6,18,1276,708
+babies,6,18,192,81
+frozen,6,18,1286,663
+deli,6,18,513,369
+snacks,6,18,1192,618
+dairy eggs,2,12,3538,1408
+canned goods,4,17,437,294
+personal care,4,17,211,152
+pantry,4,17,890,556
+deli,3,19,340,261
+beverages,3,19,928,552
+dry goods pasta,4,17,444,289
+pantry,4,15,1135,685
+pantry,2,20,535,337
+snacks,5,13,2074,968
+household,2,22,103,71
+bakery,5,20,247,200
+dry goods pasta,5,20,191,137
+babies,5,20,103,42
+canned goods,6,18,443,298
+produce,6,18,3922,1061
+bakery,2,8,572,418
+dairy eggs,2,8,2701,1040
+other,2,8,19,19
+babies,5,19,141,67
+canned goods,1,18,526,349
+international,0,17,228,194
+breakfast,0,17,544,426
+personal care,0,13,486,358
+beverages,0,13,2614,1479
+canned goods,0,13,1401,883
+snacks,4,13,1746,821
+dairy eggs,4,19,1849,784
+bakery,4,19,428,324
+deli,4,19,323,261
+produce,3,11,5586,1500
+produce,4,20,2693,669
+dairy eggs,4,20,1459,612
+bakery,4,20,299,233
+snacks,0,19,1086,567
+beverages,1,21,580,323
+canned goods,3,12,595,379
+pantry,3,13,1169,706
+meat seafood,3,13,430,340
+pantry,0,16,1758,1075
+household,3,10,473,314
+household,6,14,557,347
+personal care,6,14,350,245
+dairy eggs,6,14,3975,1607
+frozen,6,14,1824,974
+snacks,6,14,1917,1000
+meat seafood,6,12,616,488
+bakery,0,14,1369,1013
+produce,1,15,8512,2146
+deli,1,15,960,698
+household,1,15,585,377
+meat seafood,1,15,693,568
+canned goods,1,15,981,650
+dry goods pasta,2,20,273,181
+alcohol,5,15,133,76
+dry goods pasta,6,12,667,461
+pets,6,12,70,51
+frozen,3,14,1297,710
+bakery,2,19,395,317
+alcohol,1,15,121,65
+pantry,4,0,120,69
+meat seafood,4,0,31,28
+dairy eggs,0,4,92,39
+produce,0,4,195,42
+snacks,0,4,43,23
+deli,0,4,20,18
+beverages,0,4,51,30
+alcohol,1,18,96,69
+frozen,6,15,1822,935
+beverages,6,15,1798,1031
+produce,6,15,6868,1713
+breakfast,6,15,442,349
+pantry,4,9,953,591
+dairy eggs,2,13,3653,1406
+snacks,4,20,753,391
+pantry,4,10,1199,738
+beverages,6,14,1797,1042
+deli,6,14,777,575
+international,4,11,154,129
+breakfast,6,16,486,361
+beverages,6,16,1801,1013
+snacks,6,16,1913,961
+beverages,3,12,1602,902
+produce,6,14,7295,1775
+breakfast,0,14,779,582
+bakery,1,15,1078,797
+frozen,1,15,1962,1045
+snacks,1,15,2570,1212
+snacks,5,23,303,142
+deli,5,23,128,96
+frozen,3,18,1151,582
+produce,3,18,3765,1110
+snacks,1,11,3040,1336
+frozen,1,11,1709,975
+canned goods,1,11,970,622
+canned goods,5,13,683,433
+bakery,1,11,1125,827
+deli,1,11,936,690
+dry goods pasta,1,11,829,566
+dry goods pasta,5,8,344,246
+canned goods,5,8,433,299
+deli,5,8,466,355
+alcohol,3,15,144,75
+dry goods pasta,3,15,498,351
+dairy eggs,0,8,3283,1257
+produce,0,8,6128,1359
+deli,0,8,619,440
+bakery,3,17,632,493
+produce,3,17,4481,1312
+frozen,3,17,1361,703
+frozen,5,9,1325,699
+snacks,3,6,267,123
+dairy eggs,3,6,581,222
+pantry,3,6,199,117
+beverages,2,15,1851,1019
+deli,1,18,602,437
+snacks,1,18,1384,746
+frozen,1,18,1321,700
+produce,1,18,4601,1303
+bakery,1,18,624,473
+snacks,1,17,1843,936
+produce,1,17,6168,1645
+snacks,2,15,1940,933
+dairy eggs,4,13,3109,1291
+beverages,4,13,1581,883
+beverages,0,21,696,379
+produce,0,21,3184,731
+pantry,2,8,767,486
+produce,4,12,4717,1337
+international,3,12,165,138
+beverages,4,20,701,405
+produce,5,11,6875,1706
+dairy eggs,5,11,4417,1605
+frozen,1,16,1826,999
+dry goods pasta,1,16,758,538
+household,1,16,517,357
+pets,1,16,53,35
+frozen,3,11,1156,644
+dry goods pasta,3,11,500,338
+meat seafood,4,15,383,305
+pantry,2,12,1265,765
+meat seafood,2,12,481,396
+bakery,2,12,678,517
+breakfast,2,9,499,356
+produce,2,9,5723,1552
+frozen,2,15,1461,777
+bakery,3,18,517,399
+dry goods pasta,3,18,345,239
+babies,3,18,190,88
+international,0,22,76,61
+pantry,0,22,375,240
+meat seafood,0,12,963,770
+personal care,0,12,469,321
+dry goods pasta,1,15,820,550
+personal care,2,15,313,225
+meat seafood,2,13,456,370
+pantry,2,13,1273,758
+canned goods,4,14,536,349
+dry goods pasta,4,14,478,331
+beverages,1,7,794,428
+bakery,6,23,166,122
+dry goods pasta,6,23,141,92
+bakery,0,9,1080,794
+breakfast,0,9,591,431
+dairy eggs,1,8,3872,1427
+pantry,1,8,974,618
+dairy eggs,6,11,3699,1510
+produce,6,11,7007,1688
+snacks,6,11,1837,910
+frozen,6,11,1756,887
+dry goods pasta,2,8,359,255
+meat seafood,2,8,315,251
+dry goods pasta,6,13,720,476
+canned goods,3,19,333,232
+canned goods,6,16,892,550
+personal care,6,16,342,249
+frozen,2,9,1119,632
+deli,2,9,650,475
+beverages,5,9,1926,999
+personal care,5,13,260,188
+frozen,1,9,1656,868
+bakery,1,9,976,708
+produce,1,9,9044,2313
+household,1,9,639,412
+frozen,6,9,1349,748
+bakery,3,11,650,487
+produce,3,9,4958,1395
+frozen,1,10,1848,986
+deli,1,10,1051,761
+snacks,1,10,3591,1538
+pantry,3,21,402,236
+meat seafood,3,21,138,112
+beverages,2,10,2186,1080
+snacks,2,10,2409,1026
+pantry,0,9,1531,936
+produce,1,22,1747,439
+frozen,1,22,367,208
+canned goods,1,22,200,129
+snacks,1,22,445,223
+bakery,1,22,176,130
+dry goods pasta,1,22,171,109
+household,1,22,124,70
+canned goods,6,10,909,547
+produce,6,10,6991,1664
+beverages,6,10,1681,967
+babies,6,10,269,111
+snacks,6,10,1725,888
+deli,6,10,737,553
+frozen,6,10,1643,876
+personal care,6,10,311,235
+dairy eggs,6,10,3704,1504
+household,6,10,556,343
+breakfast,3,20,167,128
+dairy eggs,3,20,1365,600
+personal care,3,15,295,211
+pets,3,15,46,30
+babies,3,15,274,115
+frozen,5,14,1486,785
+canned goods,1,10,1020,642
+household,1,10,698,441
+snacks,3,13,1726,860
+beverages,6,17,1444,828
+deli,6,17,638,456
+canned goods,2,9,649,404
+international,5,8,104,88
+international,0,18,137,109
+produce,3,22,1783,428
+frozen,3,22,412,212
+babies,3,22,116,49
+dry goods pasta,3,22,130,92
+household,2,11,598,363
+deli,2,11,750,539
+dry goods pasta,1,10,807,532
+beverages,4,12,1586,853
+dairy eggs,4,12,2871,1259
+snacks,1,9,3279,1418
+babies,2,12,286,133
+household,5,9,521,316
+produce,4,8,3616,977
+bakery,4,8,490,357
+dry goods pasta,2,12,611,401
+bakery,3,16,709,549
+beverages,3,8,1126,589
+pantry,3,8,792,482
+household,2,18,371,249
+produce,2,18,4192,1141
+meat seafood,6,21,175,134
+pantry,3,19,632,404
+dairy eggs,3,19,1769,791
+produce,3,16,5431,1559
+babies,3,16,299,119
+beverages,1,13,2255,1219
+deli,3,12,600,436
+meat seafood,3,12,409,327
+breakfast,0,11,628,484
+pantry,0,11,1954,1148
+snacks,2,16,1812,923
+frozen,2,16,1459,787
+deli,2,16,607,446
+beverages,2,16,1753,939
+pantry,6,23,252,148
+international,6,23,37,29
+beverages,2,14,1808,982
+frozen,2,14,1355,735
+household,4,14,409,249
+frozen,4,14,1238,663
+breakfast,4,14,395,302
+breakfast,4,11,414,300
+meat seafood,4,14,387,325
+bulk,2,11,23,23
+snacks,2,17,1599,817
+produce,2,17,4955,1374
+personal care,2,17,265,206
+household,2,17,436,295
+household,6,16,485,329
+beverages,2,5,68,38
+produce,2,5,273,71
+snacks,2,5,62,35
+frozen,2,5,64,34
+breakfast,3,8,305,225
+beverages,1,8,1678,859
+canned goods,1,9,803,526
+deli,1,9,894,655
+missing,0,18,38,33
+canned goods,6,9,762,475
+deli,6,9,629,468
+produce,5,22,1739,381
+dairy eggs,5,22,1029,355
+snacks,0,12,2699,1362
+bakery,5,7,314,233
+pantry,0,10,2024,1204
+bakery,0,10,1181,890
+household,3,18,301,201
+personal care,3,18,190,143
+personal care,1,13,348,254
+personal care,3,16,267,196
+household,3,16,474,316
+bakery,5,13,813,632
+beverages,2,17,1590,860
+frozen,2,17,1424,765
+bakery,0,16,1150,887
+household,2,14,493,320
+snacks,2,14,1880,910
+pantry,5,11,1384,818
+snacks,4,12,1708,801
+bakery,3,14,628,501
+snacks,2,9,2045,942
+personal care,2,9,231,170
+breakfast,4,17,341,252
+meat seafood,4,17,331,276
+frozen,4,17,1213,616
+pantry,1,12,1525,944
+pantry,6,19,625,376
+meat seafood,6,19,256,208
+household,3,15,523,332
+dairy eggs,0,7,1561,593
+produce,0,7,2879,663
+frozen,0,7,605,343
+beverages,0,7,628,364
+snacks,0,7,801,368
+canned goods,0,7,298,191
+bulk,6,16,26,25
+bakery,2,13,736,549
+produce,3,10,5160,1400
+frozen,3,10,1152,586
+dairy eggs,1,19,2030,890
+canned goods,0,20,397,264
+produce,4,7,1978,573
+deli,4,20,275,201
+dairy eggs,0,21,1629,611
+snacks,0,21,791,393
+beverages,1,6,315,168
+dairy eggs,1,6,656,244
+snacks,5,12,2149,944
+international,0,11,350,291
+babies,0,11,418,156
+babies,3,11,227,95
+dairy eggs,4,8,2313,915
+snacks,4,8,1025,523
+beverages,4,8,1050,559
+frozen,0,8,1261,665
+meat seafood,0,8,531,426
+dry goods pasta,0,8,510,352
+produce,4,13,5305,1428
+produce,2,10,5987,1630
+frozen,2,10,1326,693
+canned goods,2,10,650,414
+breakfast,2,10,527,354
+frozen,0,19,1010,539
+canned goods,0,19,450,283
+beverages,5,17,1607,862
+breakfast,6,14,467,370
+beverages,4,19,895,545
+canned goods,6,11,908,560
+beverages,6,11,1761,1012
+household,6,11,570,364
+international,0,15,307,241
+bakery,5,8,527,393
+bakery,4,13,652,501
+dairy eggs,6,15,3796,1531
+household,6,15,500,335
+personal care,6,15,363,241
+meat seafood,6,7,176,152
+pantry,1,20,537,345
+beverages,1,20,734,432
+dairy eggs,1,20,1629,690
+dairy eggs,3,13,3152,1314
+canned goods,3,13,599,404
+canned goods,2,16,641,432
+deli,0,13,1315,935
+personal care,5,19,167,129
+international,2,12,184,153
+snacks,5,7,726,358
+canned goods,5,7,274,179
+international,6,20,78,61
+deli,3,7,195,151
+beverages,3,7,585,329
+snacks,3,7,563,284
+dairy eggs,3,7,1205,527
+dairy eggs,5,16,3478,1470
+breakfast,6,10,438,343
+beverages,5,11,2370,1145
+frozen,4,15,1296,681
+breakfast,4,15,374,282
+canned goods,4,15,664,423
+breakfast,3,7,202,136
+household,4,9,414,263
+bulk,3,12,20,20
+pantry,5,17,1056,619
+meat seafood,3,20,182,140
+pantry,3,20,518,294
+household,5,11,647,407
+meat seafood,5,11,481,386
+household,1,11,653,409
+produce,6,22,1996,432
+dairy eggs,6,22,1034,384
+deli,6,22,191,149
+personal care,3,17,243,177
+meat seafood,1,9,566,466
+bakery,2,20,322,252
+household,3,14,449,280
+alcohol,1,11,123,61
+pantry,5,16,1256,755
+household,3,17,401,264
+personal care,2,16,270,193
+international,0,16,293,255
+dry goods pasta,0,19,351,239
+meat seafood,0,19,285,230
+household,0,19,298,195
+babies,0,22,212,66
+frozen,4,18,1004,552
+dry goods pasta,4,18,326,224
+breakfast,0,16,672,513
+canned goods,4,5,25,17
+household,4,5,24,13
+pantry,4,5,49,30
+personal care,2,18,213,158
+beverages,2,18,1205,702
+missing,2,18,35,34
+alcohol,4,10,164,56
+pets,4,10,77,41
+household,4,10,461,309
+meat seafood,1,10,683,530
+personal care,5,12,295,202
+deli,5,12,761,528
+bakery,5,12,783,566
+bakery,0,22,282,202
+breakfast,2,17,413,317
+pantry,2,3,19,13
+bakery,2,3,19,16
+dairy eggs,2,3,68,28
+personal care,4,10,252,180
+household,4,17,372,242
+meat seafood,4,10,365,303
+international,4,10,142,120
+household,4,11,404,260
+personal care,2,11,335,228
+dry goods pasta,4,9,375,258
+personal care,4,9,248,181
+breakfast,1,8,490,356
+missing,2,15,41,34
+canned goods,2,14,661,438
+household,5,16,473,301
+alcohol,5,16,167,89
+breakfast,0,15,732,566
+breakfast,0,10,647,483
+snacks,3,20,652,354
+deli,3,20,247,187
+dairy eggs,4,21,1179,460
+produce,4,21,2048,514
+frozen,5,11,1618,804
+bakery,4,12,666,486
+deli,4,12,583,430
+bakery,6,6,80,55
+dry goods pasta,6,6,47,37
+meat seafood,6,6,36,31
+bakery,6,19,385,303
+breakfast,5,18,316,235
+meat seafood,5,18,336,274
+deli,0,7,279,205
+meat seafood,1,11,710,571
+international,5,21,33,28
+snacks,5,21,441,204
+dairy eggs,3,21,1129,428
+beverages,3,21,493,292
+breakfast,3,21,161,117
+snacks,3,21,576,263
+deli,3,21,227,159
+bulk,1,15,31,31
+canned goods,3,8,389,257
+canned goods,4,18,370,245
+breakfast,4,18,278,222
+deli,6,15,780,573
+meat seafood,1,18,399,325
+household,1,18,367,251
+bakery,5,19,381,301
+snacks,5,19,944,486
+canned goods,5,19,330,218
+international,5,12,184,154
+frozen,3,16,1423,783
+bakery,2,7,314,229
+babies,2,7,172,72
+meat seafood,2,7,200,159
+dry goods pasta,2,7,250,167
+pantry,2,7,392,239
+international,4,5,10,6
+frozen,4,5,64,31
+alcohol,5,11,147,77
+missing,0,9,79,64
+household,4,15,417,266
+personal care,4,15,254,194
+pets,4,14,67,36
+pantry,4,14,1140,697
+household,6,9,445,279
+dairy eggs,2,19,1684,764
+pets,1,11,96,45
+personal care,2,14,286,202
+international,6,12,209,168
+household,5,10,573,353
+deli,5,19,330,242
+dairy eggs,4,1,126,53
+bakery,4,1,20,16
+produce,4,1,258,61
+household,0,8,395,275
+personal care,0,8,233,173
+deli,6,11,801,603
+canned goods,3,7,201,135
+pantry,3,7,382,241
+missing,4,17,34,29
+dry goods pasta,3,14,549,371
+pantry,4,18,759,475
+bakery,3,10,696,506
+deli,4,21,233,169
+beverages,4,21,541,307
+breakfast,4,9,376,272
+meat seafood,4,9,305,250
+meat seafood,1,22,111,88
+deli,1,22,184,136
+international,4,15,167,127
+breakfast,5,9,486,358
+pets,3,11,47,34
+international,1,12,250,209
+household,3,9,523,298
+canned goods,6,15,849,543
+snacks,6,15,1958,956
+pantry,5,18,892,518
+dry goods pasta,2,13,594,403
+frozen,5,10,1215,686
+personal care,6,9,315,230
+dry goods pasta,0,12,1120,767
+dry goods pasta,5,12,553,387
+babies,0,17,353,149
+pantry,6,8,930,529
+dry goods pasta,6,8,372,265
+bakery,6,8,546,407
+meat seafood,4,11,382,305
+dry goods pasta,4,11,487,328
+deli,2,17,609,442
+breakfast,5,11,551,409
+deli,1,17,759,554
+canned goods,1,17,721,452
+household,6,22,110,68
+breakfast,6,22,103,76
+snacks,6,22,516,224
+personal care,6,22,93,48
+dry goods pasta,1,18,467,322
+dairy eggs,2,6,515,215
+bakery,2,6,114,82
+alcohol,1,16,101,64
+frozen,1,17,1528,846
+bakery,1,17,748,572
+breakfast,0,18,346,279
+canned goods,2,17,575,389
+pantry,1,1,37,25
+dry goods pasta,1,17,657,439
+personal care,4,22,70,51
+pantry,2,6,151,95
+deli,0,19,464,329
+breakfast,1,13,571,419
+personal care,1,23,68,43
+pantry,1,23,235,140
+dairy eggs,1,23,682,253
+breakfast,1,23,89,63
+snacks,3,23,221,123
+pantry,3,23,174,102
+canned goods,0,21,287,184
+beverages,0,23,346,176
+produce,0,23,1552,334
+dairy eggs,0,23,810,294
+personal care,4,5,14,9
+babies,0,9,387,172
+canned goods,5,12,697,448
+beverages,5,18,1298,706
+produce,5,18,3690,1045
+dairy eggs,5,18,2296,990
+personal care,3,14,289,210
+frozen,2,18,1194,630
+babies,1,8,291,133
+deli,3,13,649,448
+canned goods,5,6,105,59
+snacks,5,6,231,127
+meat seafood,6,1,31,23
+international,6,1,9,6
+pantry,6,1,80,47
+canned goods,4,16,562,382
+personal care,4,14,288,191
+snacks,3,19,940,511
+household,5,22,85,58
+breakfast,5,22,127,96
+snacks,2,0,134,70
+produce,2,0,535,124
+beverages,2,0,140,65
+frozen,2,0,136,68
+breakfast,2,0,42,32
+meat seafood,5,17,332,277
+breakfast,5,17,390,285
+dairy eggs,4,7,1246,525
+deli,5,13,677,486
+dairy eggs,2,21,1094,440
+bakery,2,21,199,161
+bakery,4,7,249,188
+beverages,4,7,588,314
+snacks,4,7,615,302
+deli,4,7,206,163
+bulk,4,7,11,10
+breakfast,6,18,318,239
+frozen,5,18,1094,564
+personal care,1,19,194,141
+personal care,3,10,261,189
+snacks,4,21,592,297
+canned goods,6,14,879,549
+bulk,5,12,18,18
+international,2,13,184,156
+pets,3,10,56,33
+alcohol,3,10,105,54
+babies,3,10,251,103
+beverages,1,19,945,550
+snacks,0,20,941,464
+deli,0,20,404,304
+canned goods,5,21,173,120
+breakfast,4,10,437,317
+international,4,14,114,95
+frozen,5,0,162,74
+meat seafood,5,0,50,37
+breakfast,2,11,566,396
+alcohol,2,15,148,77
+international,0,10,298,242
+alcohol,6,11,64,47
+bakery,6,13,866,650
+canned goods,6,17,642,414
+missing,6,13,59,52
+personal care,0,20,157,108
+household,2,9,530,327
+pets,6,13,99,57
+international,1,13,226,192
+frozen,4,9,1096,572
+personal care,1,8,230,175
+beverages,3,13,1570,871
+meat seafood,0,7,213,172
+dairy eggs,3,23,497,211
+beverages,3,23,239,137
+meat seafood,3,23,70,52
+deli,3,23,82,68
+breakfast,3,23,76,56
+breakfast,1,20,215,155
+other,6,12,25,23
+deli,0,1,32,24
+meat seafood,5,9,421,345
+dairy eggs,1,21,1305,494
+pantry,1,21,434,272
+breakfast,3,13,403,297
+beverages,3,6,255,134
+deli,3,6,95,67
+canned goods,3,6,92,62
+international,3,6,26,19
+beverages,1,3,34,22
+frozen,4,16,1276,681
+dry goods pasta,4,16,448,312
+dry goods pasta,5,13,562,399
+household,4,0,23,17
+meat seafood,4,16,418,342
+babies,0,16,508,190
+household,0,7,186,122
+snacks,2,22,349,183
+frozen,2,22,349,175
+personal care,0,19,185,132
+dry goods pasta,0,7,243,162
+personal care,0,7,102,76
+pantry,6,6,151,80
+deli,4,13,599,438
+bakery,6,21,234,178
+snacks,2,18,1191,654
+breakfast,2,18,347,260
+deli,2,18,500,372
+canned goods,2,18,472,329
+bulk,2,18,12,11
+dry goods pasta,4,15,450,297
+household,2,10,558,339
+household,3,11,431,290
+canned goods,4,9,522,317
+international,4,9,156,116
+canned goods,3,20,229,156
+international,6,13,207,170
+produce,3,2,159,42
+household,3,2,17,10
+personal care,3,2,14,9
+frozen,3,2,46,21
+international,2,8,112,92
+dairy eggs,5,0,335,137
+produce,5,0,562,138
+dry goods pasta,5,7,220,159
+deli,5,7,244,191
+dry goods pasta,3,16,497,357
+missing,0,17,46,44
+bakery,4,21,239,171
+deli,2,15,707,509
+dry goods pasta,6,20,227,152
+meat seafood,6,20,182,154
+frozen,1,0,154,82
+bakery,1,0,47,36
+produce,1,0,730,166
+deli,1,0,78,53
+bulk,6,11,24,24
+beverages,4,1,84,46
+breakfast,6,11,429,339
+beverages,4,23,263,135
+produce,4,23,988,247
+babies,0,10,337,153
+meat seafood,3,6,84,68
+other,3,6,2,2
+breakfast,3,6,104,70
+household,2,5,11,7
+breakfast,2,5,6,6
+canned goods,2,5,23,16
+babies,6,11,275,116
+dry goods pasta,3,17,515,344
+meat seafood,2,21,132,109
+babies,2,21,139,41
+international,2,21,48,43
+personal care,2,0,26,21
+international,3,23,30,24
+dry goods pasta,2,21,143,102
+pantry,2,21,394,228
+missing,4,14,42,37
+deli,2,10,753,529
+personal care,5,7,119,90
+bakery,6,7,245,178
+babies,4,12,217,104
+personal care,4,2,18,10
+pantry,4,2,49,26
+household,4,2,28,16
+alcohol,5,18,99,66
+babies,4,20,131,69
+missing,4,18,30,28
+household,4,18,311,212
+meat seafood,1,17,484,397
+pantry,5,22,414,215
+personal care,1,21,105,77
+household,5,18,372,242
+international,0,5,5,4
+pets,1,18,65,41
+alcohol,6,15,129,83
+dry goods pasta,0,21,234,172
+breakfast,5,10,504,363
+breakfast,4,16,357,273
+snacks,5,20,665,329
+personal care,5,20,102,75
+missing,5,20,10,10
+dry goods pasta,3,9,353,252
+personal care,6,17,235,179
+personal care,6,11,373,262
+personal care,1,6,44,35
+dairy eggs,3,1,114,54
+beverages,3,1,75,39
+snacks,3,1,70,37
+snacks,5,8,1298,622
+bulk,2,16,13,13
+babies,4,7,132,59
+pets,1,17,69,46
+personal care,4,11,235,160
+meat seafood,3,7,118,99
+alcohol,3,17,105,65
+frozen,6,17,1464,756
+babies,2,20,228,77
+beverages,3,20,620,370
+babies,4,19,147,69
+pets,4,18,80,43
+international,5,13,166,147
+meat seafood,2,20,182,156
+pantry,4,22,372,198
+dairy eggs,1,3,68,27
+pantry,1,3,27,19
+pets,1,14,61,45
+alcohol,2,10,84,43
+dry goods pasta,5,21,160,111
+deli,5,21,171,128
+canned goods,5,20,255,168
+bulk,2,14,29,29
+breakfast,2,14,434,325
+produce,6,5,208,53
+dairy eggs,6,5,110,49
+beverages,6,5,64,41
+deli,4,8,351,270
+deli,3,8,443,308
+dairy eggs,1,1,127,53
+babies,1,21,173,69
+breakfast,1,21,181,133
+bakery,6,20,274,216
+meat seafood,6,8,367,305
+pantry,6,7,401,234
+dry goods pasta,6,7,185,133
+international,1,8,132,98
+other,1,8,16,16
+personal care,1,12,386,280
+international,1,21,64,54
+meat seafood,0,20,254,205
+dry goods pasta,0,20,338,245
+frozen,1,5,98,42
+produce,1,5,329,90
+canned goods,3,21,201,136
+babies,2,8,341,117
+deli,5,20,216,159
+missing,6,8,36,32
+personal care,4,16,297,197
+meat seafood,1,14,661,525
+household,1,17,404,252
+breakfast,5,2,20,11
+beverages,5,2,47,30
+meat seafood,5,2,8,7
+dairy eggs,5,2,103,38
+household,5,2,13,6
+meat seafood,4,5,21,17
+alcohol,4,14,130,76
+pets,3,22,31,12
+personal care,5,8,167,118
+babies,1,13,389,157
+breakfast,3,19,279,205
+canned goods,4,0,65,36
+breakfast,4,0,45,29
+alcohol,0,16,102,74
+dry goods pasta,2,6,63,48
+frozen,0,20,931,469
+bulk,3,13,26,25
+household,0,12,726,471
+household,5,17,359,239
+international,2,20,101,76
+bakery,3,22,185,144
+pets,5,20,44,16
+alcohol,6,14,114,70
+produce,0,6,592,158
+pets,6,7,36,15
+pets,0,13,81,53
+bakery,5,21,199,151
+deli,0,23,166,129
+household,1,14,548,355
+pets,4,9,37,32
+snacks,4,23,239,125
+personal care,6,18,204,145
+household,6,18,358,224
+meat seafood,5,10,412,332
+personal care,3,9,274,191
+other,6,23,3,3
+pantry,6,21,405,226
+international,2,19,81,69
+meat seafood,2,19,239,203
+frozen,4,22,408,231
+canned goods,4,22,192,116
+breakfast,4,22,129,94
+deli,2,0,73,51
+pets,6,8,59,33
+alcohol,5,9,109,56
+beverages,5,0,152,86
+babies,5,13,295,118
+dairy eggs,6,0,250,124
+snacks,6,0,165,78
+produce,6,0,534,146
+frozen,6,0,147,68
+canned goods,6,0,45,33
+personal care,6,0,43,28
+beverages,6,0,160,86
+household,0,20,263,167
+deli,4,6,73,58
+beverages,4,6,197,109
+beverages,3,3,35,20
+snacks,3,3,26,17
+pantry,3,3,28,17
+dairy eggs,3,3,49,27
+pets,0,7,20,13
+babies,1,7,205,93
+babies,6,16,384,134
+missing,3,12,33,30
+other,5,13,26,23
+alcohol,0,17,97,62
+alcohol,6,18,91,56
+dry goods pasta,5,19,303,206
+babies,1,20,161,81
+dry goods pasta,3,10,433,307
+pets,4,17,81,49
+pantry,1,6,179,107
+breakfast,1,6,114,73
+produce,2,2,121,33
+breakfast,2,2,14,10
+beverages,2,2,34,22
+pets,5,7,34,22
+babies,3,9,323,131
+dairy eggs,2,23,655,240
+pantry,2,23,230,131
+bulk,6,15,27,27
+international,4,16,147,126
+personal care,1,20,140,103
+missing,5,12,38,33
+deli,2,14,625,466
+alcohol,4,17,102,58
+meat seafood,6,23,113,87
+international,0,9,264,210
+snacks,1,5,99,50
+deli,1,5,32,26
+bulk,0,11,39,39
+alcohol,2,16,126,71
+household,2,16,416,275
+breakfast,0,22,194,133
+babies,5,12,264,110
+bulk,4,21,5,5
+missing,2,14,40,33
+pets,5,19,45,25
+babies,5,8,251,86
+household,0,23,70,52
+meat seafood,0,23,94,82
+snacks,0,23,372,165
+canned goods,0,23,148,99
+missing,2,16,49,43
+alcohol,1,14,124,67
+international,1,19,103,88
+breakfast,1,19,271,211
+household,1,2,14,7
+frozen,1,2,31,19
+produce,1,2,177,48
+canned goods,1,2,12,8
+alcohol,1,2,1,1
+missing,3,19,29,24
+alcohol,2,17,94,52
+dairy eggs,0,6,363,144
+frozen,0,6,145,81
+beverages,0,6,203,96
+babies,2,13,345,130
+babies,4,13,261,111
+frozen,2,2,31,18
+snacks,2,2,42,20
+canned goods,2,2,21,15
+deli,2,2,25,16
+canned goods,4,2,21,9
+meat seafood,4,2,12,10
+meat seafood,4,18,293,238
+other,0,17,28,27
+deli,2,22,129,108
+bulk,0,10,38,35
+personal care,0,23,63,43
+alcohol,3,18,74,52
+bulk,4,8,13,13
+dry goods pasta,5,23,120,74
+beverages,1,23,305,159
+international,1,23,40,32
+dry goods pasta,0,23,129,85
+dairy eggs,2,1,150,64
+bakery,2,1,28,22
+snacks,1,0,166,76
+canned goods,1,0,79,46
+dry goods pasta,1,0,53,42
+bulk,1,18,11,11
+pets,0,12,89,64
+pantry,6,20,496,308
+personal care,3,22,82,57
+bakery,5,6,130,83
+alcohol,1,10,158,79
+pets,1,10,81,38
+international,6,8,106,90
+babies,3,17,209,89
+produce,3,5,297,68
+babies,3,5,33,8
+other,2,13,17,17
+pets,3,9,58,31
+missing,4,22,14,14
+meat seafood,4,22,140,111
+other,4,12,21,21
+bulk,5,13,24,24
+pets,2,8,48,30
+babies,6,9,338,121
+other,0,18,16,16
+alcohol,2,18,76,53
+frozen,0,23,287,159
+personal care,5,6,38,27
+missing,1,13,53,46
+household,0,6,42,28
+snacks,0,6,172,83
+alcohol,3,16,144,77
+beverages,0,3,72,36
+dairy eggs,0,3,119,51
+produce,0,3,288,55
+alcohol,6,17,141,79
+deli,3,3,6,5
+babies,4,8,200,87
+other,3,13,23,22
+missing,6,23,6,6
+international,3,8,99,75
+alcohol,4,16,132,82
+alcohol,0,11,92,61
+pets,5,6,26,17
+babies,1,6,48,21
+international,4,18,98,85
+personal care,2,22,56,43
+missing,2,10,50,42
+international,3,13,163,133
+household,6,0,46,27
+breakfast,6,0,38,29
+deli,6,0,65,51
+babies,6,15,323,149
+produce,3,0,528,141
+babies,0,15,436,186
+deli,0,3,27,17
+snacks,0,3,55,25
+alcohol,4,15,158,83
+alcohol,0,14,144,76
+canned goods,0,6,70,51
+alcohol,5,10,131,58
+bulk,6,17,33,33
+babies,6,17,222,107
+personal care,3,11,238,186
+pets,1,22,7,6
+alcohol,4,9,125,56
+alcohol,2,9,76,32
+pets,0,23,2,2
+bakery,2,4,16,9
+babies,2,4,5,4
+pantry,2,4,24,15
+meat seafood,2,23,68,57
+dry goods pasta,2,23,88,60
+missing,2,17,40,32
+international,6,21,58,52
+bulk,2,10,34,34
+alcohol,3,11,96,62
+other,2,19,16,15
+missing,1,8,36,30
+missing,5,7,26,20
+household,1,0,38,28
+meat seafood,1,0,43,34
+household,1,5,30,17
+canned goods,1,5,51,28
+canned goods,0,4,27,18
+frozen,0,4,37,19
+dry goods pasta,0,4,13,10
+missing,6,12,47,43
+international,5,6,34,21
+dry goods pasta,5,6,87,55
+household,0,21,203,131
+pets,3,17,61,41
+alcohol,6,16,139,78
+personal care,2,10,268,194
+missing,3,13,37,32
+alcohol,6,9,48,30
+alcohol,0,15,103,62
+dry goods pasta,1,9,636,445
+personal care,2,5,12,10
+bulk,4,13,24,24
+pets,2,13,34,18
+personal care,4,18,208,145
+beverages,5,5,107,46
+dairy eggs,5,5,166,69
+breakfast,5,5,26,20
+pantry,5,5,77,43
+household,5,5,33,20
+household,0,4,10,8
+alcohol,4,11,121,52
+pets,4,16,77,41
+international,4,17,127,102
+produce,5,5,246,71
+meat seafood,5,5,19,14
+dry goods pasta,4,22,170,114
+household,4,22,123,76
+breakfast,0,5,11,10
+dry goods pasta,6,21,153,120
+household,4,16,447,275
+dairy eggs,4,23,535,219
+pantry,0,0,170,94
+missing,4,15,31,30
+pets,5,8,35,26
+babies,4,21,113,54
+alcohol,6,10,71,44
+canned goods,0,3,27,17
+pets,5,21,28,16
+other,4,8,16,16
+pets,1,15,79,49
+alcohol,3,9,92,40
+other,2,12,24,24
+bulk,0,18,19,17
+pets,6,19,35,22
+personal care,0,21,125,90
+missing,0,15,75,63
+pantry,3,1,44,29
+deli,3,1,18,12
+canned goods,3,1,23,13
+international,3,1,7,5
+international,2,7,59,50
+alcohol,5,5,7,2
+missing,0,10,64,53
+international,5,7,73,63
+missing,0,11,57,52
+other,0,9,35,34
+pets,5,12,54,33
+alcohol,0,10,66,49
+breakfast,2,22,100,73
+dairy eggs,3,4,70,27
+babies,1,3,8,2
+snacks,5,3,50,20
+bakery,5,3,17,14
+personal care,5,3,12,10
+bakery,2,23,119,85
+international,3,20,75,62
+pantry,5,0,120,75
+babies,1,23,68,30
+beverages,1,1,66,28
+bulk,0,17,25,25
+alcohol,2,22,25,11
+beverages,6,2,55,27
+frozen,6,2,36,15
+bakery,5,1,21,15
+deli,5,1,23,18
+alcohol,5,17,119,76
+alcohol,2,14,122,69
+frozen,3,0,142,71
+international,3,19,74,66
+personal care,0,4,3,3
+missing,2,9,28,26
+bakery,4,23,117,78
+babies,0,5,4,2
+missing,0,5,2,2
+pantry,0,5,39,18
+bulk,0,9,27,27
+canned goods,0,1,33,25
+dry goods pasta,0,1,42,29
+pets,0,20,38,23
+pets,0,19,46,32
+bulk,2,9,30,30
+international,4,2,3,3
+frozen,4,2,50,22
+dry goods pasta,6,1,46,22
+deli,4,23,124,92
+bulk,1,17,19,19
+breakfast,4,5,22,14
+international,6,19,100,75
+household,5,0,54,38
+alcohol,5,14,164,86
+bulk,0,15,35,32
+meat seafood,0,6,50,44
+bakery,0,0,88,64
+bulk,1,14,36,35
+dry goods pasta,1,2,14,8
+deli,1,2,20,16
+snacks,1,2,73,27
+bakery,1,2,23,18
+alcohol,1,17,118,69
+international,3,21,51,41
+personal care,5,21,72,56
+pets,6,20,20,17
+dry goods pasta,5,4,17,13
+snacks,5,4,44,25
+bakery,5,4,19,15
+snacks,5,1,68,31
+pets,5,1,16,6
+missing,5,13,40,37
+meat seafood,3,19,241,192
+alcohol,1,9,109,56
+missing,4,11,45,39
+breakfast,0,0,52,44
+deli,6,5,16,14
+international,3,3,5,3
+other,4,19,8,8
+alcohol,0,18,51,35
+deli,5,6,77,60
+alcohol,4,18,113,69
+bulk,4,12,23,23
+babies,2,19,140,60
+babies,0,0,28,14
+international,0,0,17,17
+babies,6,14,322,130
+dairy eggs,2,4,74,29
+pets,3,14,48,30
+babies,5,23,46,20
+bakery,5,23,128,98
+pets,2,12,71,31
+other,0,11,40,40
+meat seafood,2,6,51,38
+international,2,6,20,18
+bulk,5,19,12,12
+missing,0,14,75,62
+international,5,19,84,64
+meat seafood,6,3,13,10
+international,6,6,18,16
+frozen,0,3,57,27
+dry goods pasta,0,3,13,11
+meat seafood,0,3,15,12
+missing,5,21,14,13
+missing,0,16,62,58
+bulk,0,16,32,31
+other,2,7,14,14
+bulk,3,23,6,6
+pets,2,19,48,26
+pets,1,9,54,39
+other,1,20,8,8
+pets,3,18,38,26
+babies,4,6,38,20
+frozen,5,5,76,33
+bulk,4,19,10,9
+missing,3,21,17,16
+bulk,1,16,28,28
+missing,5,8,37,33
+other,0,22,10,10
+bulk,1,11,40,40
+canned goods,5,23,125,79
+international,5,23,33,25
+missing,4,16,39,34
+missing,1,6,7,5
+pantry,6,3,35,20
+missing,1,21,17,12
+missing,4,9,37,31
+canned goods,3,23,96,64
+international,1,20,79,70
+missing,1,12,49,44
+missing,3,7,17,14
+alcohol,3,14,129,73
+missing,6,21,21,18
+bulk,6,10,29,28
+deli,0,6,73,51
+bulk,1,9,56,55
+other,6,13,26,26
+meat seafood,5,22,129,105
+dry goods pasta,3,0,55,37
+pets,4,11,47,28
+canned goods,5,3,19,14
+pets,0,21,23,9
+beverages,3,4,37,20
+meat seafood,3,4,9,9
+international,3,4,6,4
+snacks,3,4,34,19
+missing,1,7,24,20
+breakfast,5,0,58,43
+produce,5,2,150,40
+frozen,5,2,48,25
+alcohol,0,9,65,31
+international,5,20,49,42
+other,2,23,3,3
+pantry,5,2,22,15
+pets,3,16,52,38
+other,0,16,25,24
+household,3,22,109,69
+household,3,0,36,24
+international,6,7,46,38
+bulk,3,6,4,4
+missing,3,8,26,25
+international,3,7,62,49
+babies,2,6,25,14
+dairy eggs,6,2,78,32
+produce,6,2,147,36
+bakery,0,5,16,15
+snacks,6,5,51,32
+breakfast,6,5,16,13
+frozen,6,5,41,25
+missing,2,22,9,9
+snacks,4,1,51,26
+bulk,2,15,19,19
+breakfast,4,2,14,11
+dry goods pasta,4,2,15,10
+other,0,10,32,32
+canned goods,3,4,31,17
+babies,5,7,209,73
+pets,2,20,30,18
+international,2,3,3,3
+canned goods,5,4,18,14
+canned goods,6,5,30,22
+pets,4,15,55,35
+alcohol,6,22,9,6
+pets,6,4,9,3
+other,0,14,36,35
+bulk,6,9,20,20
+bulk,1,10,65,65
+other,2,21,6,6
+alcohol,4,22,12,6
+personal care,0,1,20,17
+missing,3,20,20,19
+pantry,6,4,48,19
+dry goods pasta,6,4,15,8
+bulk,6,22,9,9
+babies,3,0,24,6
+bakery,3,0,55,41
+other,6,21,12,11
+produce,4,3,70,24
+deli,4,3,10,7
+dairy eggs,4,3,38,19
+meat seafood,0,1,26,22
+dry goods pasta,5,1,16,10
+frozen,3,5,60,33
+missing,2,11,27,26
+other,3,19,14,13
+missing,4,10,46,41
+missing,5,19,24,20
+international,4,22,51,39
+household,6,5,13,11
+personal care,6,5,12,8
+breakfast,1,1,14,11
+bulk,3,8,7,7
+other,3,7,9,9
+bulk,2,0,5,5
+canned goods,2,0,60,36
+household,2,0,40,28
+missing,6,6,4,4
+alcohol,5,22,14,9
+personal care,1,1,18,14
+dairy eggs,4,4,41,25
+produce,4,4,93,25
+bakery,4,4,10,6
+deli,4,4,8,7
+snacks,4,3,33,13
+beverages,4,3,32,16
+household,0,1,25,16
+pantry,2,1,58,36
+dry goods pasta,3,2,17,12
+other,4,6,6,6
+other,5,12,23,22
+deli,5,4,19,11
+babies,6,22,132,42
+dry goods pasta,0,6,65,41
+dairy eggs,1,4,67,24
+other,4,21,2,2
+other,0,15,32,32
+missing,6,1,7,5
+pets,6,1,5,4
+other,6,6,2,2
+other,6,20,10,9
+other,5,21,10,10
+meat seafood,2,4,7,7
+other,1,12,20,20
+pets,5,13,76,43
+pets,1,5,3,3
+babies,1,19,151,60
+babies,5,21,91,44
+bulk,5,20,11,11
+personal care,3,5,18,13
+bulk,2,17,13,13
+snacks,4,4,25,14
+deli,3,4,20,13
+pantry,3,4,34,18
+bakery,3,5,20,18
+personal care,0,6,30,21
+household,3,5,33,15
+bakery,3,2,20,16
+missing,3,6,5,4
+bakery,4,3,7,6
+bulk,6,14,23,23
+bakery,1,5,42,34
+international,5,1,6,5
+bulk,5,8,18,18
+breakfast,1,4,8,6
+pantry,1,4,28,9
+bakery,0,2,35,26
+breakfast,0,2,17,11
+international,1,6,23,17
+pets,0,8,34,20
+babies,5,1,2,2
+dry goods pasta,2,1,28,15
+bulk,0,14,45,44
+dry goods pasta,4,0,49,31
+alcohol,6,0,8,6
+dry goods pasta,3,5,25,17
+meat seafood,0,4,12,10
+meat seafood,2,1,21,18
+other,5,7,14,14
+personal care,4,0,15,11
+missing,1,20,24,20
+dry goods pasta,6,3,7,5
+missing,5,6,9,8
+alcohol,3,2,4,3
+beverages,1,4,44,16
+missing,1,19,22,20
+missing,6,20,17,15
+other,4,20,13,12
+international,2,23,28,20
+bulk,6,18,17,16
+bulk,5,4,2,2
+other,6,8,11,11
+deli,6,2,22,13
+snacks,6,2,35,13
+dry goods pasta,2,3,9,5
+meat seafood,2,3,9,9
+pantry,0,2,48,31
+pets,2,7,11,6
+pets,5,23,24,11
+other,6,19,11,10
+deli,4,1,21,15
+canned goods,3,3,1,1
+bulk,0,0,2,2
+pets,2,21,24,12
+dry goods pasta,5,3,14,12
+deli,5,3,20,14
+other,3,20,7,7
+breakfast,6,2,9,8
+other,1,19,14,13
+bulk,4,20,9,9
+international,4,0,13,11
+other,1,13,21,21
+babies,4,23,53,19
+missing,2,0,6,5
+personal care,5,23,49,38
+pets,2,4,1,1
+international,2,4,3,2
+dry goods pasta,2,4,5,5
+pets,1,2,1,1
+pets,3,2,4,3
+meat seafood,1,5,22,17
+pets,6,21,13,8
+missing,3,1,6,6
+breakfast,3,3,5,5
+missing,6,7,9,8
+babies,5,6,60,22
+bakery,6,4,18,15
+pets,0,3,8,4
+bulk,3,20,11,11
+dry goods pasta,1,5,25,13
+personal care,5,4,7,7
+other,0,5,1,1
+bakery,6,1,43,33
+pets,4,5,10,5
+dry goods pasta,4,5,24,13
+bulk,3,7,5,5
+missing,0,22,18,15
+beverages,4,4,20,13
+bulk,1,22,7,7
+pets,1,0,14,5
+personal care,2,2,8,6
+household,2,2,10,9
+bulk,5,7,4,4
+babies,2,23,52,25
+international,6,3,3,2
+babies,2,3,1,1
+missing,0,0,5,4
+pets,6,23,26,15
+pets,4,22,17,9
+other,1,21,13,12
+canned goods,6,2,17,9
+other,4,13,14,14
+meat seafood,1,2,6,6
+breakfast,3,1,9,9
+other,1,7,7,7
+bulk,0,22,7,7
+alcohol,3,0,5,4
+pets,5,3,32,5
+bakery,6,3,12,8
+personal care,6,2,5,5
+bulk,4,6,4,4
+babies,4,1,9,3
+alcohol,0,22,19,9
+babies,1,1,11,4
+pets,3,5,5,4
+household,6,2,11,8
+alcohol,0,2,1,1
+international,5,4,8,5
+other,5,19,16,13
+bulk,3,19,9,9
+other,1,6,4,4
+other,2,20,9,8
+canned goods,5,1,23,17
+breakfast,3,4,11,8
+other,5,3,1,1
+babies,5,3,8,5
+international,5,3,7,3
+babies,6,5,13,5
+alcohol,0,5,4,2
+other,5,20,8,7
+pets,2,6,9,5
+other,1,23,5,5
+bulk,5,21,11,10
+missing,1,23,12,8
+pets,5,4,17,6
+personal care,3,0,19,14
+other,0,0,3,3
+other,6,7,6,6
+other,3,8,10,10
+other,4,7,14,12
+babies,6,0,19,8
+other,5,6,6,5
+breakfast,1,3,12,9
+personal care,1,4,4,3
+bulk,1,0,3,3
+bulk,5,23,6,6
+other,2,4,1,1
+alcohol,4,2,6,3
+missing,4,0,2,2
+meat seafood,3,1,9,9
+personal care,5,1,11,10
+missing,3,23,4,4
+missing,6,3,1,1
+alcohol,3,22,7,5
+other,4,23,3,3
+deli,2,5,23,17
+babies,0,2,1,1
+babies,1,4,1,1
+household,0,3,15,9
+alcohol,5,0,11,5
+alcohol,1,22,11,6
+other,3,23,4,3
+meat seafood,3,3,6,5
+missing,2,5,2,2
+bulk,3,4,2,1
+alcohol,3,5,5,3
+other,5,23,2,2
+missing,0,2,1,1
+babies,4,4,4,3
+international,6,4,2,2
+meat seafood,6,4,7,6
+alcohol,6,5,7,3
+other,4,3,1,1
+personal care,1,3,3,3
+international,1,3,5,4
+bulk,3,21,4,4
+other,3,21,6,6
+missing,5,3,1,1
+babies,3,2,11,6
+international,1,4,3,3
+alcohol,6,2,2,2
+pets,0,4,4,3
+pets,2,3,1,1
+other,0,2,2,2
+babies,2,1,14,5
+pets,4,0,1,1
+other,3,4,1,1
+bulk,6,0,3,3
+missing,5,1,2,2
+pets,6,6,4,4
+other,5,1,2,2
+other,2,6,3,3
+missing,5,23,3,2
+personal care,0,3,6,5
+other,5,4,1,1
+pets,2,23,1,1
+international,0,2,3,2
+international,1,1,2,1
+bulk,4,4,1,1
+pets,3,0,3,2
+missing,6,4,1,1
+babies,5,4,3,3
+international,2,1,2,1
+pets,0,1,1,1
+alcohol,2,5,1,1
+bulk,4,23,2,2
+alcohol,1,5,2,1
+other,1,1,1,1
+alcohol,1,0,2,2
+alcohol,0,0,1,1
+alcohol,2,0,1,1
+other,4,4,1,1
+pets,6,3,1,1
+pets,2,1,1,1
+missing,1,4,1,1
+pets,0,6,1,1
+other,4,1,1,1
+,5,9,21905,2167
+,0,14,36445,3313
+,2,9,20781,2247
+,0,18,17262,1796
+,0,15,35517,3257
+,6,22,6165,531
+,5,16,21445,2241
+,5,22,5942,504
+,2,22,4706,453
+,5,15,21354,2201
+,5,14,22602,2265
+,0,11,33233,2956
+,5,17,17463,1820
+,6,9,20338,1868
+,5,10,22763,2313
+,2,11,22717,2330
+,2,16,19994,2244
+,2,14,19879,2210
+,1,10,34516,3371
+,4,6,2411,257
+,2,15,21046,2254
+,0,17,25936,2415
+,1,14,27444,2751
+,1,16,26292,2735
+,3,12,18071,1998
+,1,11,31330,3089
+,6,16,23548,2177
+,3,8,13060,1391
+,4,19,11218,1188
+,6,17,18791,1785
+,6,18,14635,1421
+,3,19,10884,1206
+,1,18,16517,1761
+,4,13,18683,2002
+,4,20,8792,906
+,3,13,19070,2075
+,0,16,32403,3001
+,6,14,24397,2277
+,1,15,28784,2868
+,6,15,23572,2229
+,3,6,3197,287
+,1,17,20837,2170
+,4,12,17301,1939
+,5,11,25054,2384
+,0,22,8028,672
+,0,9,28290,2466
+,6,11,23423,2175
+,1,9,30412,3111
+,3,21,6632,627
+,1,5,1161,119
+,2,10,22414,2348
+,1,22,5460,548
+,6,10,23091,2120
+,3,20,7779,873
+,4,8,12519,1340
+,2,18,14751,1588
+,2,17,18011,1940
+,2,5,819,91
+,0,10,32467,2823
+,4,7,7096,769
+,3,7,6738,715
+,2,0,1764,166
+,4,21,7172,685
+,5,18,13946,1504
+,4,1,779,82
+,3,23,3092,325
+,0,0,2658,245
+,5,0,2023,198
+,1,0,2115,201
+,4,23,3226,321
+,0,5,615,55
+,3,1,804,86
+,6,5,687,73
+,5,2,578,58
+,6,0,1775,187
+,3,3,308,38
+,2,2,444,51
+,1,2,625,63
+,5,5,964,101
+,3,4,459,48
+,6,2,486,53
+,0,2,917,86
+,4,3,263,31
+,4,4,331,39
+,,9,156648,15775
+,,14,167701,16868
+,,10,173935,17217
+,,18,103555,11068
+,,11,174203,17094
+,,15,168644,16993
+,,22,42383,3823
+,,16,161452,16561
+,,17,133106,13686
+,,0,13880,1360
+,,5,6068,623
+,,2,4321,426
+,1,19,12127,1306
+,0,12,35216,3139
+,4,10,19678,2143
+,4,11,18831,2039
+,6,19,10811,1041
+,0,19,13456,1344
+,0,20,12694,1144
+,3,10,19006,2099
+,1,12,27580,2743
+,0,8,19289,1676
+,3,14,18876,2085
+,5,8,15098,1506
+,6,12,24165,2228
+,2,20,9148,957
+,1,7,9820,985
+,0,13,37013,3291
+,3,9,17974,2021
+,4,0,1792,179
+,6,8,14776,1318
+,6,13,24017,2214
+,0,21,9820,898
+,1,13,28495,2757
+,2,19,10630,1178
+,2,7,8384,855
+,0,1,1330,140
+,4,16,18375,2016
+,3,15,19550,2149
+,2,12,21297,2198
+,4,17,15373,1693
+,4,15,18821,2035
+,5,13,22483,2208
+,5,20,7677,796
+,2,8,15100,1544
+,5,19,10857,1162
+,3,11,19615,2121
+,1,21,7755,735
+,0,4,595,57
+,6,7,7386,698
+,4,9,16948,1895
+,2,13,21972,2228
+,6,23,4410,383
+,5,23,3756,348
+,3,18,13625,1535
+,3,17,16695,1863
+,4,14,18058,1967
+,1,8,20497,2059
+,3,22,5748,539
+,3,16,19395,2147
+,6,21,7164,642
+,1,23,4002,361
+,5,12,22309,2201
+,5,7,8901,857
+,0,7,9179,809
+,1,6,3742,346
+,4,18,12819,1463
+,1,20,9626,1026
+,6,20,8477,818
+,4,5,860,91
+,2,3,342,37
+,6,6,2001,186
+,5,21,5898,533
+,2,6,2962,306
+,1,1,793,88
+,4,22,6334,576
+,0,23,4702,411
+,5,6,3006,306
+,6,1,1197,108
+,2,21,6629,655
+,1,3,400,42
+,3,2,622,56
+,4,2,649,59
+,6,3,394,45
+,0,6,2118,200
+,2,23,3612,338
+,2,1,920,94
+,3,5,962,93
+,0,3,816,64
+,3,0,1753,184
+,2,4,403,49
+,5,3,715,56
+,5,1,745,81
+,5,4,579,53
+,6,4,508,47
+,1,4,425,40
+,,19,79983,8425
+,,12,165939,16446
+,,20,64193,6520
+,,8,110339,10834
+,,6,19437,1888
+,,7,57504,5688
+,,13,171733,16775
+,,21,51070,4775
+,,1,6568,679
+,,4,3300,333
+,,23,26800,2487
+,,3,3238,313

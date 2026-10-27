@@ -1,0 +1,63 @@
+{
+  "source_db": "/content/drive/MyDrive/Nhom04_ADM/repo/data/processed/step3_transactions_for_association_mining.duckdb",
+  "output_dir": "/content/drive/MyDrive/Nhom04_ADM/repo/outputs/step4_chay_lai",
+  "data_source": "Instacart prior user-sampled transactions, B3 Step3 DuckDB",
+  "configuration": {
+    "seed": 42,
+    "test_n": 5000,
+    "main_n": 10000,
+    "support_grid": [
+      0.02,
+      0.05,
+      0.1
+    ],
+    "repeats": 3,
+    "main_min_support": 0.1,
+    "max_len": 3,
+    "min_confidence": 0.5,
+    "min_lift_exclusive": 1.0
+  },
+  "output_files": [
+    "B4_repro_check.csv",
+    "T29_matrix_aisle.parquet",
+    "T29_matrix_department.parquet",
+    "T29_transaction_quality.csv",
+    "T30_aisle_frequent_itemsets.csv",
+    "T30_comparison.csv",
+    "T30_department_frequent_itemsets.csv",
+    "T30_performance_comparison.png",
+    "T30_sample_order_ids.csv",
+    "T31_closed_aisle.csv",
+    "T31_closed_check_aisle.csv",
+    "T31_closed_check_department.csv",
+    "T31_closed_comparison.png",
+    "T31_closed_department.csv",
+    "T31_closed_reduction.csv",
+    "T31_closed_summary.csv",
+    "T32_all_rules_aisle.csv",
+    "T32_all_rules_department.csv",
+    "T32_confidence_sensitivity.png",
+    "T32_filtered_rules_aisle.csv",
+    "T32_filtered_rules_department.csv",
+    "T32_lift_sensitivity.png",
+    "T32_rules_summary.csv",
+    "T32_threshold_sensitivity.csv",
+    "T33_confidence_lift_scatter.png",
+    "T33_named_rule_candidates.csv",
+    "T33_selection_summary.csv",
+    "T33_top10_lift.png",
+    "T33_top10_rules.csv",
+    "Test/T30_apriori_aisle_test.csv",
+    "Test/T30_comparison_test.csv",
+    "Test/T30_fpgrowth_aisle_test.csv",
+    "Test/T30_itemset_count_test.png",
+    "Test/T30_runtime_comparison_test.png",
+    "Test/T30_support_comparison_test.csv"
+  ],
+  "interpretation_limitations": [
+    "mined itemsets restricted to length <= 3",
+    "T31 closure check applies only to mined itemsets, not full CHARM implementation",
+    "execution times are not deterministic",
+    "association rules indicate correlation, not causation"
+  ]
+}

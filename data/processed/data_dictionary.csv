@@ -1,0 +1,17 @@
+﻿Biến,Ý nghĩa
+order_id,Mã đơn hàng
+user_id,Mã khách hàng
+eval_set,Tập prior/train/test
+order_number,Thứ tự đơn hàng
+order_dow,Thứ trong tuần (0-6)
+order_hour_of_day,Giờ đặt hàng (0-23)
+days_since_prior_order,"Số ngày kể từ đơn trước, 30 là 30+"
+days_since_prior_bin,Khoảng ngày rời rạc hóa bằng Fayyad–Irani
+product_id,Mã sản phẩm
+add_to_cart_order,Vị trí sản phẩm trong giỏ
+reordered,1 nếu sản phẩm đã từng được mua trước đó
+aisle_id,Mã gian hàng
+aisle,Tên gian hàng
+department_id,Mã ngành hàng
+department,Tên ngành hàng
+product_name,Tên sản phẩm

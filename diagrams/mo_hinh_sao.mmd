@@ -1,0 +1,31 @@
+erDiagram
+  dim_user ||--o{ dim_order : "đặt"
+  dim_order ||--|{ fact_order_product : "gồm"
+  dim_product ||--o{ fact_order_product : "xuất hiện trong"
+  dim_user {
+    int user_id PK
+  }
+  dim_order {
+    int order_id PK
+    int user_id FK
+    string dataset_type "prior hoặc train"
+    int order_number
+    int order_dow
+    int order_hour_of_day
+    float days_since_prior_order
+  }
+  dim_product {
+    int product_id PK
+    string product_name
+    int aisle_id
+    string aisle
+    int department_id
+    string department
+  }
+  fact_order_product {
+    int order_id FK
+    int product_id FK
+    int user_id FK
+    int reordered
+    int item_count "luôn bằng 1"
+  }

@@ -1,0 +1,11 @@
+﻿kiem_tra,so_vi_pham
+1. Khóa trùng trong dim_user,0
+2. Khóa trùng trong dim_order,0
+3. Khóa trùng trong dim_product,0
+"4. Cặp (order_id, product_id) trùng trong fact",0
+5. Fact không có đơn trong dim_order,0
+6. Fact không có sản phẩm trong dim_product,0
+7. Đơn không có người dùng trong dim_user,0
+8. user_id của fact khác dim_order,0
+"9. reordered ngoài miền {0, 1}",0
+10. item_count khác 1,0

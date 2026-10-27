@@ -1,0 +1,139 @@
+﻿level,antecedents,consequents,support,antecedent_support,consequent_support,confidence,lift,rule_length,antecedent_names,consequent_names,rule_description
+aisle,aisle_123,"aisle_24, aisle_83",0.1832,0.3627,0.3116,0.5051006341328922,1.6209904818128762,3,packaged vegetables fruits,fresh fruits + fresh vegetables,packaged vegetables fruits -> fresh fruits + fresh vegetables
+aisle,"aisle_24, aisle_83",aisle_123,0.1832,0.3116,0.3627,0.5879332477535302,1.620990481812876,3,fresh fruits + fresh vegetables,packaged vegetables fruits,fresh fruits + fresh vegetables -> packaged vegetables fruits
+aisle,"aisle_123, aisle_24",aisle_83,0.1832,0.2642,0.4408,0.6934140802422407,1.5730809442882048,3,packaged vegetables fruits + fresh fruits,fresh vegetables,packaged vegetables fruits + fresh fruits -> fresh vegetables
+aisle,"aisle_120, aisle_24",aisle_123,0.1028,0.1859,0.3627,0.5529854760623991,1.524635996863521,3,yogurt + fresh fruits,packaged vegetables fruits,yogurt + fresh fruits -> packaged vegetables fruits
+aisle,"aisle_21, aisle_24",aisle_83,0.102,0.1531,0.4408,0.6662312214239059,1.5114138417057756,3,packaged cheese + fresh fruits,fresh vegetables,packaged cheese + fresh fruits -> fresh vegetables
+aisle,"aisle_120, aisle_123",aisle_24,0.1028,0.1279,0.5502,0.8037529319781078,1.4608377535043762,3,yogurt + packaged vegetables fruits,fresh fruits,yogurt + packaged vegetables fruits -> fresh fruits
+aisle,aisle_123,aisle_83,0.2324,0.3627,0.4408,0.6407499310725117,1.453606921670852,2,packaged vegetables fruits,fresh vegetables,packaged vegetables fruits -> fresh vegetables
+aisle,aisle_83,aisle_123,0.2324,0.4408,0.3627,0.5272232304900181,1.453606921670852,2,fresh vegetables,packaged vegetables fruits,fresh vegetables -> packaged vegetables fruits
+aisle,"aisle_120, aisle_83",aisle_24,0.1154,0.1459,0.5502,0.7909527073337903,1.437573077669557,3,yogurt + fresh vegetables,fresh fruits,yogurt + fresh vegetables -> fresh fruits
+aisle,"aisle_123, aisle_83",aisle_24,0.1832,0.2324,0.5502,0.7882960413080895,1.4327445316395664,3,packaged vegetables fruits + fresh vegetables,fresh fruits,packaged vegetables fruits + fresh vegetables -> fresh fruits
+aisle,"aisle_120, aisle_24",aisle_83,0.1154,0.1859,0.4408,0.6207638515330823,1.4082664508463754,3,yogurt + fresh fruits,fresh vegetables,yogurt + fresh fruits -> fresh vegetables
+aisle,aisle_21,aisle_123,0.1162,0.2294,0.3627,0.5065387968613775,1.3965778794082642,2,packaged cheese,packaged vegetables fruits,packaged cheese -> packaged vegetables fruits
+aisle,"aisle_21, aisle_83",aisle_24,0.102,0.1335,0.5502,0.7640449438202246,1.3886676550712915,3,packaged cheese + fresh vegetables,fresh fruits,packaged cheese + fresh vegetables -> fresh fruits
+aisle,aisle_123,aisle_24,0.2642,0.3627,0.5502,0.7284256961676315,1.3239289279673419,2,packaged vegetables fruits,fresh fruits,packaged vegetables fruits -> fresh fruits
+aisle,aisle_21,aisle_83,0.1335,0.2294,0.4408,0.5819529206625982,1.3202198744614295,2,packaged cheese,fresh vegetables,packaged cheese -> fresh vegetables
+aisle,aisle_83,aisle_24,0.3116,0.4408,0.5502,0.7068965517241379,1.284799257950087,2,fresh vegetables,fresh fruits,fresh vegetables -> fresh fruits
+aisle,aisle_24,aisle_83,0.3116,0.5502,0.4408,0.5663395129043983,1.2847992579500869,2,fresh fruits,fresh vegetables,fresh fruits -> fresh vegetables
+aisle,aisle_120,aisle_24,0.1859,0.2665,0.5502,0.697560975609756,1.2678316532347438,2,yogurt,fresh fruits,yogurt -> fresh fruits
+aisle,aisle_91,aisle_24,0.1185,0.1706,0.5502,0.6946072684642438,1.262463228760894,2,soy lactosefree,fresh fruits,soy lactosefree -> fresh fruits
+aisle,aisle_120,aisle_83,0.1459,0.2665,0.4408,0.547467166979362,1.2419854060330353,2,yogurt,fresh vegetables,yogurt -> fresh vegetables
+aisle,aisle_112,aisle_24,0.1091,0.1613,0.5502,0.676379417234966,1.2293337281624244,2,bread,fresh fruits,bread -> fresh fruits
+aisle,aisle_21,aisle_24,0.1531,0.2294,0.5502,0.6673931996512642,1.2130010898787063,2,packaged cheese,fresh fruits,packaged cheese -> fresh fruits
+aisle,aisle_84,aisle_24,0.161,0.2443,0.5502,0.6590257879656161,1.197793144248666,2,milk,fresh fruits,milk -> fresh fruits
+aisle,aisle_84,aisle_83,0.1254,0.2443,0.4408,0.5133033155955793,1.164481205979082,2,milk,fresh vegetables,milk -> fresh vegetables
+aisle,aisle_107,aisle_24,0.1007,0.1572,0.5502,0.6405852417302799,1.1642770660310429,2,chips pretzels,fresh fruits,chips pretzels -> fresh fruits
+aisle,aisle_115,aisle_24,0.1067,0.1826,0.5502,0.5843373493975903,1.0620453460516,2,water seltzer sparkling water,fresh fruits,water seltzer sparkling water -> fresh fruits
+department,department_20,"department_19, department_4",0.1228,0.2409,0.3331,0.5097550850975509,1.5303364908362378,3,deli,snacks + produce,deli -> snacks + produce
+department,"department_15, department_4",department_13,0.1013,0.1884,0.3542,0.5376857749469214,1.5180287265582195,3,canned goods + produce,pantry,canned goods + produce -> pantry
+department,department_9,department_1,0.1004,0.1878,0.3618,0.5346112886048988,1.477643141528189,2,dry goods pasta,frozen,dry goods pasta -> frozen
+department,department_15,department_13,0.1115,0.2138,0.3542,0.5215154349859682,1.47237559284576,2,canned goods,pantry,canned goods -> pantry
+department,"department_16, department_20",department_1,0.105,0.1978,0.3618,0.5308392315470172,1.4672173342924741,3,dairy eggs + deli,frozen,dairy eggs + deli -> frozen
+department,"department_16, department_20",department_19,0.1196,0.1978,0.4256,0.6046511627906976,1.420702920090925,3,dairy eggs + deli,snacks,dairy eggs + deli -> snacks
+department,"department_20, department_4",department_1,0.107,0.2088,0.3618,0.5124521072796935,1.4163960953004242,3,deli + produce,frozen,deli + produce -> frozen
+department,"department_1, department_7",department_19,0.1049,0.1771,0.4256,0.5923207227555053,1.3917310215119956,3,frozen + beverages,snacks,frozen + beverages -> snacks
+department,department_20,department_1,0.1207,0.2409,0.3618,0.5010377750103777,1.3848473604488052,2,deli,frozen,deli -> frozen
+department,"department_20, department_4",department_19,0.1228,0.2088,0.4256,0.5881226053639846,1.381867023881543,3,deli + produce,snacks,deli + produce -> snacks
+department,department_9,"department_16, department_4",0.1421,0.1878,0.5501,0.7566560170394037,1.3754881240490886,3,dry goods pasta,dairy eggs + produce,dry goods pasta -> dairy eggs + produce
+department,department_20,department_19,0.1384,0.2409,0.4256,0.5745122457451224,1.3498877954537651,2,deli,snacks,deli -> snacks
+department,"department_16, department_3",department_19,0.127,0.2219,0.4256,0.5723298783235692,1.3447600524519954,3,dairy eggs + bakery,snacks,dairy eggs + bakery -> snacks
+department,department_20,"department_16, department_4",0.1771,0.2409,0.5501,0.7351598173515982,1.3364112295066317,3,deli,dairy eggs + produce,deli -> dairy eggs + produce
+department,department_15,"department_16, department_4",0.1563,0.2138,0.5501,0.7310570626753976,1.328953031585889,3,canned goods,dairy eggs + produce,canned goods -> dairy eggs + produce
+department,"department_1, department_16",department_19,0.1589,0.282,0.4256,0.5634751773049647,1.323954833893244,3,frozen + dairy eggs,snacks,frozen + dairy eggs -> snacks
+department,"department_3, department_4",department_19,0.1262,0.225,0.4256,0.5608888888888889,1.3178780284043443,3,bakery + produce,snacks,bakery + produce -> snacks
+department,department_3,"department_16, department_4",0.1938,0.2694,0.5501,0.7193763919821827,1.3077193091841168,3,bakery,dairy eggs + produce,bakery -> dairy eggs + produce
+department,department_12,"department_16, department_4",0.1254,0.1759,0.5501,0.7129050596930074,1.295955389371037,3,meat seafood,dairy eggs + produce,meat seafood -> dairy eggs + produce
+department,department_9,department_19,0.1028,0.1878,0.4256,0.5473908413205538,1.28616269107273,2,dry goods pasta,snacks,dry goods pasta -> snacks
+department,"department_1, department_3",department_16,0.1107,0.127,0.6786,0.8716535433070867,1.2844879801165439,3,frozen + bakery,dairy eggs,frozen + bakery -> dairy eggs
+department,"department_1, department_20",department_16,0.105,0.1207,0.6786,0.8699254349627175,1.281941401359737,3,frozen + deli,dairy eggs,frozen + deli -> dairy eggs
+department,"department_14, department_4",department_16,0.1118,0.1286,0.6786,0.8693623639191291,1.2811116473904054,3,breakfast + produce,dairy eggs,breakfast + produce -> dairy eggs
+department,"department_4, department_9",department_16,0.1421,0.1635,0.6786,0.8691131498470948,1.280744400010455,3,produce + dry goods pasta,dairy eggs,produce + dry goods pasta -> dairy eggs
+department,department_3,department_19,0.1468,0.2694,0.4256,0.5449146250927989,1.280344513845862,2,bakery,snacks,bakery -> snacks
+department,"department_1, department_4",department_19,0.1591,0.2924,0.4256,0.5441176470588235,1.2784719150818222,3,frozen + produce,snacks,frozen + produce -> snacks
+department,"department_19, department_3",department_16,0.127,0.1468,0.6786,0.8651226158038147,1.2748638606009648,3,snacks + bakery,dairy eggs,snacks + bakery -> dairy eggs
+department,"department_13, department_3",department_16,0.1045,0.1208,0.6786,0.8650662251655629,1.2747807621066356,3,pantry + bakery,dairy eggs,pantry + bakery -> dairy eggs
+department,"department_19, department_20",department_16,0.1196,0.1384,0.6786,0.8641618497109826,1.2734480543928421,3,snacks + deli,dairy eggs,snacks + deli -> dairy eggs
+department,department_14,"department_16, department_4",0.1118,0.1601,0.5501,0.6983135540287321,1.269430201833725,3,breakfast,dairy eggs + produce,breakfast -> dairy eggs + produce
+department,"department_3, department_4",department_16,0.1938,0.225,0.6786,0.8613333333333333,1.269279889969545,3,bakery + produce,dairy eggs,bakery + produce -> dairy eggs
+department,"department_3, department_7",department_16,0.1146,0.134,0.6786,0.8552238805970148,1.2602768650118108,3,bakery + beverages,dairy eggs,bakery + beverages -> dairy eggs
+department,"department_13, department_16",department_19,0.1472,0.2748,0.4256,0.5356622998544396,1.2586050278534766,3,pantry + dairy eggs,snacks,pantry + dairy eggs -> snacks
+department,"department_16, department_7",department_19,0.1681,0.3141,0.4256,0.5351798790194205,1.257471520252398,3,dairy eggs + beverages,snacks,dairy eggs + beverages -> snacks
+department,"department_20, department_7",department_16,0.1029,0.1213,0.6786,0.8483099752679307,1.2500883808840713,3,deli + beverages,dairy eggs,deli + beverages -> dairy eggs
+department,"department_20, department_4",department_16,0.1771,0.2088,0.6786,0.8481800766283525,1.2498969593698093,3,deli + produce,dairy eggs,deli + produce -> dairy eggs
+department,department_9,department_16,0.1587,0.1878,0.6786,0.8450479233226837,1.2452813488397934,2,dry goods pasta,dairy eggs,dry goods pasta -> dairy eggs
+department,"department_4, department_7",department_19,0.1718,0.3257,0.4256,0.5274792754068162,1.2393779967265417,3,produce + beverages,snacks,produce + beverages -> snacks
+department,department_1,department_19,0.1908,0.3618,0.4256,0.5273631840796019,1.2391052257509445,2,frozen,snacks,frozen -> snacks
+department,"department_1, department_19",department_7,0.1049,0.1908,0.4437,0.54979035639413,1.239103800753054,3,frozen + snacks,beverages,frozen + snacks -> beverages
+department,department_13,"department_16, department_4",0.2398,0.3542,0.5501,0.6770186335403727,1.2307192029455967,3,pantry,dairy eggs + produce,pantry -> dairy eggs + produce
+department,"department_1, department_13",department_16,0.1291,0.155,0.6786,0.8329032258064516,1.2273846534135744,3,frozen + pantry,dairy eggs,frozen + pantry -> dairy eggs
+department,"department_1, department_19",department_16,0.1589,0.1908,0.6786,0.8328092243186583,1.2272461307377813,3,frozen + snacks,dairy eggs,frozen + snacks -> dairy eggs
+department,department_14,department_16,0.1329,0.1601,0.6786,0.8301061836352279,1.2232628700784378,2,breakfast,dairy eggs,breakfast -> dairy eggs
+department,"department_15, department_4",department_16,0.1563,0.1884,0.6786,0.8296178343949043,1.2225432278144774,3,canned goods + produce,dairy eggs,canned goods + produce -> dairy eggs
+department,"department_13, department_15",department_4,0.1013,0.1115,0.7461,0.9085201793721973,1.2176922388047142,3,pantry + canned goods,produce,pantry + canned goods -> produce
+department,"department_13, department_19",department_16,0.1472,0.1783,0.6786,0.8255748738081885,1.2165854314886362,3,pantry + snacks,dairy eggs,pantry + snacks -> dairy eggs
+department,"department_15, department_16",department_4,0.1563,0.1725,0.7461,0.9060869565217392,1.2144309831413205,3,canned goods + dairy eggs,produce,canned goods + dairy eggs -> produce
+department,department_3,department_16,0.2219,0.2694,0.6786,0.8236822568671122,1.213796429217672,2,bakery,dairy eggs,bakery -> dairy eggs
+department,department_15,department_19,0.1103,0.2138,0.4256,0.5159027128157156,1.2121774267286551,2,canned goods,snacks,canned goods -> snacks
+department,"department_13, department_4",department_19,0.152,0.2948,0.4256,0.5156037991858887,1.2114750920721071,3,pantry + produce,snacks,pantry + produce -> snacks
+department,"department_13, department_7",department_16,0.1369,0.1666,0.6786,0.8217286914765906,1.2109176119607878,3,pantry + beverages,dairy eggs,pantry + beverages -> dairy eggs
+department,department_20,department_16,0.1978,0.2409,0.6786,0.8210875882108759,1.2099728679794812,2,deli,dairy eggs,deli -> dairy eggs
+department,"department_12, department_4",department_16,0.1254,0.1528,0.6786,0.8206806282722514,1.2093731627943582,3,meat seafood + produce,dairy eggs,meat seafood + produce -> dairy eggs
+department,"department_1, department_4",department_16,0.2399,0.2924,0.6786,0.8204514363885089,1.209035420554832,3,frozen + produce,dairy eggs,frozen + produce -> dairy eggs
+department,department_1,"department_16, department_4",0.2399,0.3618,0.5501,0.6630735212824765,1.2053690625022295,3,frozen,dairy eggs + produce,frozen -> dairy eggs + produce
+department,"department_12, department_16",department_4,0.1254,0.1396,0.7461,0.8982808022922637,1.2039683719236882,3,meat seafood + dairy eggs,produce,meat seafood + dairy eggs -> produce
+department,"department_16, department_9",department_4,0.1421,0.1587,0.7461,0.8954001260239446,1.200107393142936,3,dairy eggs + dry goods pasta,produce,dairy eggs + dry goods pasta -> produce
+department,"department_16, department_20",department_4,0.1771,0.1978,0.7461,0.8953488372093024,1.2000386505954999,3,dairy eggs + deli,produce,dairy eggs + deli -> produce
+department,"department_13, department_4",department_16,0.2398,0.2948,0.6786,0.8134328358208955,1.198692655203206,3,pantry + produce,dairy eggs,pantry + produce -> dairy eggs
+department,"department_19, department_4",department_16,0.2689,0.3331,0.6786,0.8072650855598918,1.1896037217210313,3,snacks + produce,dairy eggs,snacks + produce -> dairy eggs
+department,"department_19, department_20",department_4,0.1228,0.1384,0.7461,0.8872832369942197,1.1892283031687707,3,snacks + deli,produce,snacks + deli -> produce
+department,department_15,department_16,0.1725,0.2138,0.6786,0.8068288119738073,1.1889608192953247,2,canned goods,dairy eggs,canned goods -> dairy eggs
+department,"department_1, department_20",department_4,0.107,0.1207,0.7461,0.8864954432477216,1.1881724209190747,3,frozen + deli,produce,frozen + deli -> produce
+department,"department_1, department_7",department_16,0.1425,0.1771,0.6786,0.8046301524562393,1.1857208259007357,3,frozen + beverages,dairy eggs,frozen + beverages -> dairy eggs
+department,"department_16, department_19",department_7,0.1681,0.3202,0.4437,0.5249843847595254,1.1831967202152927,3,dairy eggs + snacks,beverages,dairy eggs + snacks -> beverages
+department,department_13,department_19,0.1783,0.3542,0.4256,0.5033879164313946,1.1827723600361715,2,pantry,snacks,pantry -> snacks
+department,department_15,department_4,0.1884,0.2138,0.7461,0.881197380729654,1.1810714123169201,2,canned goods,produce,canned goods -> produce
+department,"department_13, department_3",department_4,0.1063,0.1208,0.7461,0.8799668874172185,1.1794221785514254,3,pantry + bakery,produce,pantry + bakery -> produce
+department,"department_16, department_20",department_7,0.1029,0.1978,0.4437,0.5202224469160769,1.1724643834033737,3,dairy eggs + deli,beverages,dairy eggs + deli -> beverages
+department,"department_16, department_3",department_4,0.1938,0.2219,0.7461,0.8733663812528166,1.1705755009419871,3,dairy eggs + bakery,produce,dairy eggs + bakery -> produce
+department,"department_20, department_7",department_4,0.1059,0.1213,0.7461,0.8730420445177246,1.1701407914726238,3,deli + beverages,produce,deli + beverages -> produce
+department,"department_13, department_16",department_4,0.2398,0.2748,0.7461,0.8726346433770016,1.169594750538804,3,pantry + dairy eggs,produce,pantry + dairy eggs -> produce
+department,department_12,department_16,0.1396,0.1759,0.6786,0.79363274587834,1.1695148038289713,2,meat seafood,dairy eggs,meat seafood -> dairy eggs
+department,"department_1, department_13",department_4,0.1351,0.155,0.7461,0.8716129032258064,1.1682253092424695,3,frozen + pantry,produce,frozen + pantry -> produce
+department,department_9,department_4,0.1635,0.1878,0.7461,0.8706070287539937,1.1668771327623557,2,dry goods pasta,produce,dry goods pasta -> produce
+department,"department_4, department_7",department_16,0.2574,0.3257,0.6786,0.7902978200798282,1.164600383259399,3,produce + beverages,dairy eggs,produce + beverages -> dairy eggs
+department,department_12,department_4,0.1528,0.1759,0.7461,0.8686753837407617,1.164288143333014,2,meat seafood,produce,meat seafood -> produce
+department,"department_16, department_3",department_7,0.1146,0.2219,0.4437,0.5164488508337088,1.1639595466164274,3,dairy eggs + bakery,beverages,dairy eggs + bakery -> beverages
+department,"department_19, department_4",department_7,0.1718,0.3331,0.4437,0.5157610327229061,1.162409359303372,3,snacks + produce,beverages,snacks + produce -> beverages
+department,department_20,department_4,0.2088,0.2409,0.7461,0.8667496886674969,1.1617071286255152,2,deli,produce,deli -> produce
+department,"department_1, department_3",department_4,0.1094,0.127,0.7461,0.8614173228346457,1.1545601431907864,3,frozen + bakery,produce,frozen + bakery -> produce
+department,department_19,department_7,0.2177,0.4256,0.4437,0.5115131578947368,1.1528356049013677,2,snacks,beverages,snacks -> beverages
+department,"department_19, department_3",department_4,0.1262,0.1468,0.7461,0.8596730245231607,1.152222255090686,3,snacks + bakery,produce,snacks + bakery -> produce
+department,department_1,department_16,0.282,0.3618,0.6786,0.7794361525704808,1.1485943892874755,2,frozen,dairy eggs,frozen -> dairy eggs
+department,department_19,"department_16, department_4",0.2689,0.4256,0.5501,0.6318139097744361,1.1485437370922307,3,snacks,dairy eggs + produce,snacks -> dairy eggs + produce
+department,department_13,department_16,0.2748,0.3542,0.6786,0.7758328627893845,1.143284501605341,2,pantry,dairy eggs,pantry -> dairy eggs
+department,"department_20, department_4",department_7,0.1059,0.2088,0.4437,0.5071839080459769,1.1430784495063713,3,deli + produce,beverages,deli + produce -> beverages
+department,"department_13, department_19",department_4,0.152,0.1783,0.7461,0.8524957936062816,1.142602591618123,3,pantry + snacks,produce,pantry + snacks -> produce
+department,"department_1, department_16",department_4,0.2399,0.282,0.7461,0.8507092198581561,1.140208041627337,3,frozen + dairy eggs,produce,frozen + dairy eggs -> produce
+department,"department_1, department_16",department_7,0.1425,0.282,0.4437,0.5053191489361702,1.1388757019070774,3,frozen + dairy eggs,beverages,frozen + dairy eggs -> beverages
+department,"department_19, department_7",department_16,0.1681,0.2177,0.6786,0.7721635277905374,1.1378772882265509,3,snacks + beverages,dairy eggs,snacks + beverages -> dairy eggs
+department,"department_3, department_4",department_7,0.1135,0.225,0.4437,0.5044444444444445,1.136904314727168,3,bakery + produce,beverages,bakery + produce -> beverages
+department,"department_3, department_7",department_4,0.1135,0.134,0.7461,0.8470149253731343,1.1352565679843645,3,bakery + beverages,produce,bakery + beverages -> produce
+department,department_20,department_7,0.1213,0.2409,0.4437,0.5035284350352843,1.1348398355539426,2,deli,beverages,deli -> beverages
+department,"department_13, department_7",department_4,0.141,0.1666,0.7461,0.8463385354141656,1.1343500005551073,3,pantry + beverages,produce,pantry + beverages -> produce
+department,"department_14, department_16",department_4,0.1118,0.1329,0.7461,0.8412340105342363,1.1275083910122454,3,breakfast + dairy eggs,produce,breakfast + dairy eggs -> produce
+department,"department_16, department_19",department_4,0.2689,0.3202,0.7461,0.839787632729544,1.1255698066338884,3,dairy eggs + snacks,produce,dairy eggs + snacks -> produce
+department,department_3,department_4,0.225,0.2694,0.7461,0.8351893095768376,1.1194066607382893,2,bakery,produce,bakery -> produce
+department,"department_1, department_19",department_4,0.1591,0.1908,0.7461,0.8338574423480084,1.1176215552178106,3,frozen + snacks,produce,frozen + snacks -> produce
+department,department_13,department_4,0.2948,0.3542,0.7461,0.8322981366459627,1.1155316132501847,2,pantry,produce,pantry -> produce
+department,department_19,department_16,0.3202,0.4256,0.6786,0.7523496240601504,1.108679080548409,2,snacks,dairy eggs,snacks -> dairy eggs
+department,"department_16, department_7",department_4,0.2574,0.3141,0.7461,0.8194842406876791,1.0983571112286277,3,dairy eggs + beverages,produce,dairy eggs + beverages -> produce
+department,"department_1, department_7",department_4,0.1439,0.1771,0.7461,0.8125352907961604,1.0890434134783011,3,frozen + beverages,produce,frozen + beverages -> produce
+department,department_16,department_4,0.5501,0.6786,0.7461,0.8106395520188624,1.0865025492814133,2,dairy eggs,produce,dairy eggs -> produce
+department,department_4,department_16,0.5501,0.7461,0.6786,0.737300629942367,1.0865025492814133,2,produce,dairy eggs,produce -> dairy eggs
+department,department_1,department_4,0.2924,0.3618,0.7461,0.8081813156440022,1.0832077679185126,2,frozen,produce,frozen -> produce
+department,department_14,department_4,0.1286,0.1601,0.7461,0.8032479700187383,1.0765955904285462,2,breakfast,produce,breakfast -> produce
+department,"department_19, department_7",department_4,0.1718,0.2177,0.7461,0.7891593936610014,1.0577126305602484,3,snacks + beverages,produce,snacks + beverages -> produce
+department,department_7,"department_16, department_4",0.2574,0.4437,0.5501,0.5801217038539555,1.0545749933720332,3,beverages,dairy eggs + produce,beverages -> dairy eggs + produce
+department,department_19,department_4,0.3331,0.4256,0.7461,0.7826597744360902,1.0490011720092351,2,snacks,produce,snacks -> produce
+department,department_7,department_16,0.3141,0.4437,0.6786,0.7079107505070994,1.043192971569554,2,beverages,dairy eggs,beverages -> dairy eggs

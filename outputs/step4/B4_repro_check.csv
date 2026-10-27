@@ -1,0 +1,19 @@
+﻿check,status,actual,expected,note
+T29 source transactions,PASS,206657,206657,
+T30 5k support 2%,PASS,739,739,
+T30 5k support 5%,PASS,157,157,
+T30 5k support 10%,PASS,36,36,
+T30 10k Aisle,PASS,36,36,
+T30 10k Department,PASS,93,93,
+T31 closed Aisle,PASS,36,36,
+T31 closed Department,PASS,93,93,
+T32 all Aisle,PASS,56,56,
+T32 all Department,PASS,310,310,
+T32 filtered Aisle,PASS,26,26,
+T32 filtered Department,PASS,112,112,
+T33 top rules,PASS,10,10,
+T30_sample_order_ids.csv,PASS,10000 records,10000 records,Đối chiếu các cột: order_id
+T30_comparison.csv,PASS,4 records,4 records,"Đối chiếu các cột: level, algorithm, transactions, min_support, frequent_itemsets"
+T31_closed_summary.csv,PASS,2 records,2 records,"Đối chiếu các cột: level, frequent_itemsets, closed_itemsets"
+T32_rules_summary.csv,PASS,2 records,2 records,"Đối chiếu các cột: level, all_rules, filtered_rules"
+T33_top10_rules.csv,PASS,10 records,10 records,"Đối chiếu các cột: rule_id, level, antecedents, consequents, support, confidence, lift"

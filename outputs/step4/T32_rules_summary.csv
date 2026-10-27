@@ -1,0 +1,3 @@
+﻿level,transactions,min_support,min_confidence,min_lift_exclusive,all_rules,filtered_rules,filtered_ratio
+aisle,10000,0.1,0.5,1.0,56,26,0.4642857142857143
+department,10000,0.1,0.5,1.0,310,112,0.36129032258064514

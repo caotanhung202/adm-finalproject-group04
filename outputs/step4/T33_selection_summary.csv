@@ -1,0 +1,3 @@
+﻿level,filtered_rules,selected_rules,selection_method
+aisle,26,5,"Single consequent, highest Lift, distinct itemset union"
+department,112,5,"Single consequent, highest Lift, distinct itemset union"

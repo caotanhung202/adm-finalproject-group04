@@ -1,0 +1,49 @@
+﻿department,order_dow,gio,luot
+produce,0,13,11554
+produce,0,15,11189
+produce,0,14,11120
+produce,0,12,11070
+produce,0,10,10672
+produce,1,10,10325
+produce,0,11,10186
+produce,0,16,9978
+produce,1,11,9778
+produce,0,9,9087
+produce,1,9,9044
+produce,1,13,8792
+produce,1,12,8581
+produce,1,15,8512
+produce,1,14,8324
+produce,1,16,7855
+dairy eggs,1,10,6060
+dairy eggs,0,14,5890
+dairy eggs,0,13,5877
+dairy eggs,0,12,5622
+dairy eggs,1,9,5607
+dairy eggs,0,15,5591
+dairy eggs,0,11,5334
+dairy eggs,0,16,5240
+dairy eggs,0,10,5227
+dairy eggs,1,11,5057
+dairy eggs,1,13,4758
+dairy eggs,0,9,4753
+dairy eggs,1,15,4663
+dairy eggs,1,14,4614
+dairy eggs,1,12,4418
+dairy eggs,1,16,4415
+beverages,1,10,3175
+beverages,1,9,2851
+beverages,1,11,2632
+beverages,0,13,2614
+beverages,0,15,2504
+beverages,0,14,2458
+beverages,0,12,2366
+beverages,1,15,2349
+beverages,0,11,2315
+beverages,0,16,2299
+beverages,1,14,2276
+beverages,1,13,2255
+beverages,0,10,2245
+beverages,1,12,2169
+beverages,1,16,2085
+beverages,0,9,1920

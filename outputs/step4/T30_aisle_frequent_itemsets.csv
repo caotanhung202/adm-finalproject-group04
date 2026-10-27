@@ -1,0 +1,37 @@
+﻿support,itemsets
+0.5502,aisle_24
+0.4408,aisle_83
+0.2294,aisle_21
+0.1572,aisle_107
+0.123,aisle_116
+0.1169,aisle_78
+0.1089,aisle_37
+0.1706,aisle_91
+0.3627,aisle_123
+0.2665,aisle_120
+0.1406,aisle_86
+0.2443,aisle_84
+0.1613,aisle_112
+0.1826,aisle_115
+0.1386,aisle_31
+0.1073,aisle_96
+0.3116,"aisle_24, aisle_83"
+0.1531,"aisle_21, aisle_24"
+0.1335,"aisle_21, aisle_83"
+0.1162,"aisle_123, aisle_21"
+0.102,"aisle_21, aisle_24, aisle_83"
+0.1007,"aisle_107, aisle_24"
+0.1185,"aisle_24, aisle_91"
+0.2642,"aisle_123, aisle_24"
+0.2324,"aisle_123, aisle_83"
+0.1832,"aisle_123, aisle_24, aisle_83"
+0.1859,"aisle_120, aisle_24"
+0.1279,"aisle_120, aisle_123"
+0.1459,"aisle_120, aisle_83"
+0.1028,"aisle_120, aisle_123, aisle_24"
+0.1154,"aisle_120, aisle_24, aisle_83"
+0.161,"aisle_24, aisle_84"
+0.1254,"aisle_83, aisle_84"
+0.106,"aisle_123, aisle_84"
+0.1091,"aisle_112, aisle_24"
+0.1067,"aisle_115, aisle_24"

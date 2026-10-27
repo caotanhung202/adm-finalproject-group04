@@ -1,0 +1,10 @@
+flowchart LR
+  RAW["6 tệp CSV Instacart<br/>(data/raw, không đưa lên repo)"] --> B1["Bước 1. EDA<br/>01_eda.ipynb<br/>toàn bộ 3.421.083 đơn"]
+  RAW --> B2["Bước 2. Tiền xử lý<br/>02_preprocessing.ipynb<br/>mẫu 13.121 người dùng train"]
+  B2 -->|"5 tệp Parquet"| B3["Bước 3. Kho dữ liệu<br/>03_data_warehouse.ipynb<br/>DuckDB, mô hình sao, OLAP"]
+  B3 -->|"transactions_aisle<br/>transactions_department"| B4["Bước 4. Luật kết hợp<br/>04_pattern_mining.ipynb<br/>Apriori, FP-Growth"]
+  B2 -->|"5 tệp Parquet"| B5["Bước 5. Phân lớp<br/>05_classification.ipynb<br/>CBA, CMAR, mô hình đối chứng"]
+  B4 -->|"rules_aisle.csv<br/>(25 luật dùng cho r4_lift)"| B5
+  B3 --> B6["Bước 6. Kết luận<br/>Chương 5 báo cáo"]
+  B4 --> B6
+  B5 --> B6

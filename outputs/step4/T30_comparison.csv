@@ -1,0 +1,5 @@
+﻿level,algorithm,transactions,min_support,frequent_itemsets,runtime_seconds
+aisle,Apriori,10000,0.1,36,0.023080587000038122
+aisle,FP-Growth,10000,0.1,36,1.9901710460000004
+department,Apriori,10000,0.1,93,0.04239253599996573
+department,FP-Growth,10000,0.1,93,9.150064310999994
